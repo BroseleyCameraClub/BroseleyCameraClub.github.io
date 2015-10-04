@@ -1,0 +1,29 @@
+# Site settings
+title: Broseley Camera Club
+email: BroseleyPhotography@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  A simple, whitespace, helvetica based portfolio theme.
+baseurl:  # the subpath of your site, e.g. /blog/
+url:  # the base hostname & protocol for your site
+twitter_username: @BroseleyPhoto
+github_username:  github_username
+
+# Build settings
+markdown: kramdown
+
+highlighter: pygments
+
+# Pagination
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+  programme:
+    output: true
+    permalink: /programme/:path/
+
+
