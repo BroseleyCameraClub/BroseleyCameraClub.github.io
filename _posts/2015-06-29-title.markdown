@@ -2,10 +2,10 @@
 layout: post
 title:  june meeting news
 date: 2015-06-29 19:30:00
-description: meeting notes from the June meeting
+description: news from the June meeting
 ---
 
-For a change the June meeting was held away from Broseley Library. Attending memberts met near the lakeside fo Southwater at 19:15. Though we had a disappointing turnout the evening remained warm and dry so several photographs could be taken of the local architecture, wildfowl and other attractions of the area, and enjoyed by all who came along.
+For a change the June meeting was held away from Broseley Library. Attending members met near the lakeside of Southwater 19:15. Though we had a disappointing turnout the evening remained warm and dry so several photographs could be taken of the local architecture, wildfowl and other attractions of the area, and enjoyed by all who came along.
 
 The ‘Monthly Competition’ entitled ‘Four Legs’ was held.
 
@@ -31,4 +31,4 @@ The winners were:-
 
 <br>
 
-####Members recieve full details via Email...
+####Members receive full details via Email...

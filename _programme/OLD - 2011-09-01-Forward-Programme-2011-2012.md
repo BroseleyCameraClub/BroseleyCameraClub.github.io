@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Forward Programme 2011-2012
-description: Years club programme and events for 2011-2012.
+title: Programme 2011-2012
+description: Year's club programme and events for 2011-2012.
 date: 2012-02-01
 author: Graham Welsby
 img: /assets/img/12.jpg

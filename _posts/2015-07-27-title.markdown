@@ -2,7 +2,7 @@
 layout: post
 title:  july meeting news
 date: 2015-07-27 19:30:00
-description: meeting notes from the July meeting
+description: news from the July meeting
 ---
 
 The Chairman explained what was meant by Replication, showing a number of slides and examples in the process. You may consider the process to be one of copying. However, it is more akin to inspiration and adaptation. We learn by copying and adapting what is learned so that we create our own style, motifs and character. This is true of life as well as photography. As a child we copy the sounds of the people around us in order to learn language, then adapt the sounds in order to express our thoughts and feeling. A similar process occurs in our photography - we see, adapt, change where necessary and then express our thoughts in pictures. In short we "Replicate".
@@ -35,4 +35,4 @@ The winners were:-
 
 <br>
 
-####Members recieve full details via Email...
+####Members receive full details via Email...
