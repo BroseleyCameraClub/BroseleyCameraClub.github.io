@@ -4,44 +4,11 @@ title: Gallery
 permalink: /gallery/
 ---
 
-{% for project in site.portfolio %}
+<div class="header-bar">
+  <div class="img_row"><img src="{{site.baseurl}}/assets/img/website_under_construction.jpg"></div>
 
-{% if project.redirect %}
-<div class="project">
-    <div class="thumbnail">
-        <a href="{{ project.redirect }}" target="_blank">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}    
-        <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
-        </span>
-        </a>
-    </div>
-</div>
-{% else %}
-
-<div class="project ">
-    <div class="thumbnail">
-        <a href="{{ site.baseurl }}{{ project.url }}">
-        {% if project.img %}
-        <img class="thumbnail" src="{{ project.img }}"/>
-        {% else %}
-        <div class="thumbnail blankbox"></div>
-        {% endif %}    
-        <span>
-            <h1>{{ project.title }}</h1>
-            <br/>
-            <p>{{ project.description }}</p>
-        </span>
-        </a>
-    </div>
 </div>
 
-{% endif %}
-
-{% endfor %}
+<h1>This Page is Currently Under Construction</h1>
+<br>
+Please continue to check in ready for the display of all our galleries. We apologise for any delay's.
