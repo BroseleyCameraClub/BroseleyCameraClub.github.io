@@ -28,7 +28,7 @@ The winners were:-
 </ul>
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/assets/img/Redundant.JPG">
+	<img class="col three" src="{{ site.baseurl }}/assets/img/Redundant.jpg">
 </div>
 <div class="col three caption">
 	'Redundant' - Linda Evans
@@ -51,7 +51,7 @@ The winners were:-
 </ul>
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/assets/img/Frozen-2.JPG">
+	<img class="col three" src="{{ site.baseurl }}/assets/img/Frozen-2.jpg">
 </div>
 <div class="col three caption">
 	'Frozen No 2' - Dave Thornton
