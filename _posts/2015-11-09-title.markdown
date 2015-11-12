@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  November News
-date: 2015-10-26 19:30:00
+date: 2015-11-09 19:30:00
 description: new regarding our up and coming meeting.
 ---
 
