@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  january meeting news
-date: 2015-01-25 19:30:00
+date: 2016-01-25 19:30:00
 description: news from our January 2016 Meeting.
 ---
 
