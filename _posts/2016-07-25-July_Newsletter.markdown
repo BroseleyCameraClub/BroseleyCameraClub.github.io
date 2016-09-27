@@ -39,7 +39,7 @@ The winners were:-
 </div>
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/assets/img/Under_The_Blanket.jpg">
+	<img class="col two" src="{{ site.baseurl }}/assets/img/Under_the_blanket.jpg">
 	<img class="col one" src="{{ site.baseurl }}/assets/img/Blue_Brigade.jpg">
 </div>
 
