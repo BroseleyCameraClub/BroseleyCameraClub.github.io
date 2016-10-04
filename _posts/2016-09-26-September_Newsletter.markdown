@@ -12,7 +12,7 @@ All got off to a slow start, with no volunteers coming forward with John Horton 
 
 Although techniques were mentioned it seems that we still need to repeat some features of photography for anyone new to the process, composition being the main concern.
 
-There were no competitions this month- .
+There were no competitions this month.
 
 <br>
 
