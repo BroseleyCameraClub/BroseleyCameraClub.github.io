@@ -54,7 +54,7 @@ The winners were:-
 <br>
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/assets/img/Autumn-in-the-Park.jpg">
+	<img class="col three" src="{{ site.baseurl }}/assets/img/Autumn-in-the-park.jpg">
 </div>
 <div class="col three caption">
 	'Autumn in the Park' by Linda Evans
