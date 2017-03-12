@@ -2,7 +2,7 @@
 layout: post
 title:  november meeting news
 date: 2016-11-28 19:30:00
-description: news from our October 2016 Meeting.
+description: news from our November 2016 Meeting.
 ---
 This evening we a departed from our usual format, in that we were entertained by Van Greaves FRPS,  our guest speaker for the night.
 
