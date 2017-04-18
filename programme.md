@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Programme
+menu: main
 permalink: /programme/
 ---
 

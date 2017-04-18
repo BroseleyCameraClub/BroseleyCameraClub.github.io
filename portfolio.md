@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Gallery
+menu: main
 permalink: /gallery/
 ---
 
