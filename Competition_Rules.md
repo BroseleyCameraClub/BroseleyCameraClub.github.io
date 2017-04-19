@@ -9,18 +9,18 @@ permalink: /comp_rules/
 <br/>
 The competitions are held to encourage members to 'get out and about'. Submissions, therefore, should preferably be recent, although not mandatory.
 
-A floating cup wiull be awarded annually to the person gaining the most points in the period of the season (Usually February - January) at the Clubs AGM meeting.
+A floating cup will be awarded annually to the person gaining the most points in the period of the season (Usually September - July) at the Clubs AGM meeting.
 
 <br>
 
 #### Monthly Competition
 
 <br>
-Monthly Competition entries will be rectangular in shape, and 'up to' but no larger than 7x5. If the image is submitted as 7x5, it should be mounted in mounts provided by Broseley Camera Club. 
+Monthly Competition entries will be rectangular in shape, and 'up to' but no larger than 7&quot;x5&quot;. If the image is submitted as 7&quot;x5&quot;, it should be mounted in mounts provided by Broseley Camera Club. 
 
-Competition Titles can be found in the current programmee lists.
+Competition Titles can be found in the current programme lists.
 
-2 free mounts are provided, any more can be purchased from Broseley Camera Club.
+Two free mounts are provided, any more can be purchased from Broseley Camera Club.
 
 The image title should be presented clearly at the base of the mount.
 
@@ -33,7 +33,7 @@ It is also optional to write the camera settings on the back of the entry to aid
 <br>
 Quarterly Competition entries will be rectangular in shape, and 'up to' but no larger than A4. These entries do not need to be mounted.
 
-Competition Titles can be found in the current programmee lists.
+Competition Titles can be found in the current programme lists.
 
 The image title should be presented clearly at the base of the mount.
 
@@ -50,17 +50,16 @@ These rules apply to both the Monthly and Quarterly Competitions.
 <ul>
 	<li>There is a maximum of two entries per member for both Monthly and Quarterly.</li>
 	<li>Members must be present to enter competitions.</li>
-	<li>Entries must be the members own work.</li>
+	<li>Entries must be the member's own work.</li>
 	<li>Size restrictions as above.</li>
-	<li>Entries must be titled clearly on the front base of the images, and name written on the rear of the image.</li>
+	<li>Entries must be titled clearly on the front base of the images, and author's name written on the rear of the image.</li>
 	<li>Entries must be handed to the Club Secretary at the beginning of the meeting</li>
 	<li>Judging is done by the attending members of the respective meeting.</li>
-	<li>Members vote for their opinion for 1st, 2nd and 3rd place, based on the following...</li>
+	<li>Members vote for 1st, 2nd and 3rd place, based on the following...</li>
 		<ul>
 			<li>If the image conveys the competition title</li>
 			<li>Technical Excellence based on</li>
 				<ul>
-					<li>Image Clarity</li>
 					<li>Sharpness</li>
 					<li>Exposure</li>
 					<li>Colour Correctness</li>
@@ -84,7 +83,7 @@ These rules apply to both the Monthly and Quarterly Competitions.
  
 
   
-If you have any questions on the above, please email <a href="mailto:grahamwelsby@gmail.com">Graham Welsby</a>
+If you have any questions on the above, please email <a href="mailto:grahamwelsby@gmail.com">Graham Welsby</a> (grahamwelsby@gmail.com)
 
 
 <br/>
