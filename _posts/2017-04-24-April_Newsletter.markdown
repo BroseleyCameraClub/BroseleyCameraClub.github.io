@@ -2,7 +2,7 @@
 layout: post
 title:  april meeting news
 date: 2017-04-24 19:30:00
-description: news from our March 2017 Meeting.
+description: news from our April 2017 Meeting.
 ---
 Our primary topic for the evening was “The Photographic Mind”. Difficult to encapsulate in a few words, the item was mainly about how photographers ‘see’ the world about them. For details of the presentation please click on the associated link.
 
