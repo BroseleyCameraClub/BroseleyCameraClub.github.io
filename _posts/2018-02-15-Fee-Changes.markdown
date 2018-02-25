@@ -3,7 +3,7 @@ layout: post
 title:  club fee changes
 date: 2018-02-15 19:00:00
 description: news of the clubs fee changes 2018.
-published: false
+published: true
 ---
 
 **We are changing the Membership Fees**
