@@ -35,7 +35,7 @@ The winners were:-
 
 <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/assets/img/Yellow_Peril.jpg">
-	<img class="col one" src="{{ site.baseurl }}/assets/img/Rusty_Post.jpg">
+	<img class="col one" src="{{ site.baseurl }}/assets/img/Rusty_Post.JPG">
 </div>
 <div class="col three caption">
 	Some of these images have been cropped for a better fit for the website.
