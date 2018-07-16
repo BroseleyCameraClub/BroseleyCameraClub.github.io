@@ -9,7 +9,7 @@ A quick welcome from the Chairman and continued on with the evenings subject.
 
 This month’s topic was on <i>‘Depth of Field’</i>.
 
-Six points to take note of when considering your photograph was discussed. They ranged from composition to focus within the image. A recurring problem seems to be the depth-of-field. This aspect of photography has to learn and constantly practised, as even the best photographers get it wrong on occasions. A primary point to remember is; the greater the aperture (small ‘f stop-number) the shallower the depth-of-field – the technique ensures that the main motif is in focus leaving any foreground and/or background out of focus, therefore, directing the eye to the subject of the photograph.
+Six points to take note of when considering your photograph was discussed. They ranged from composition to focus within the image. A recurring problem seems to be the depth-of-field. This aspect of photography has to learn and constantly practiced, as even the best photographers get it wrong on occasions. A primary point to remember is; the greater the aperture (small ‘f stop-number) the shallower the depth-of-field – the technique ensures that the main motif is in focus leaving any foreground and/or background out of focus, therefore, directing the eye to the subject of the photograph.
 
 
 As stated previously, you can find a whole load of tutorial videos on this subject as well as a load of other photography subjects on <a href="https://www.youtube.com/">YouTube</a>.

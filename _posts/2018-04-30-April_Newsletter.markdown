@@ -2,7 +2,7 @@
 layout: post
 title:  april meeting news
 date: 2018-04-30 19:00:00
-description: news from our March 2018 Meeting.
+description: news from our April 2018 Meeting.
 ---
 
 This month’s topic was on ‘Back Button Focus’.
