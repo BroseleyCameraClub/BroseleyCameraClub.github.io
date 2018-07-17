@@ -35,7 +35,7 @@ The winners were:-
 <br>
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/assets/img/Spades_and_Clubs.jpg">
+	<img class="col three" src="{{ site.baseurl }}/assets/img/Spades_and_Clubs.JPG">
 </div>
 <div class="col three caption">
 	'Spades &amp; Clubs' by Diane Picket

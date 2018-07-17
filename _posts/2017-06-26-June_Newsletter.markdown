@@ -34,7 +34,7 @@ The winners were:-
 </div>
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/assets/img/Roof_Light.jpg">
+	<img class="col two" src="{{ site.baseurl }}/assets/img/Roof_Light.JPG">
 	<img class="col one" src="{{ site.baseurl }}/assets/img/Underneath_The_Arches.jpg">
 </div>
 <div class="col three caption">
