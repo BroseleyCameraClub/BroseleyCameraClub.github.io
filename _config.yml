@@ -2,9 +2,10 @@
 title: Broseley Camera Club
 email: BroseleyPhotography@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A simple, whitespace, helvetica based portfolio theme.
-baseurl:  # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
+  We are a friendly bunch of amateur photography enthusiasts, meeting once a month with a range of practical tips andhelpful advice.
+
+baseurl:  http://www.broseleycameraclub.org
+url:  http://www.broseleycameraclub.org
 
 
 # Build settings
