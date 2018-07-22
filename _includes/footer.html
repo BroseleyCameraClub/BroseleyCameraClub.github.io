@@ -5,4 +5,19 @@
   	<p>All images on this site are copyright to the photographer and owner. All rights reserved to Broseley Camera Club &#169; 2018</p>
   </div>
 
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/lightboxgallery-min.js"></script>
+  <script type="text/javascript">
+  jQuery(function($) {
+    $(document).on('click', '.lightboxgallery-gallery-item', function(event) {
+      event.preventDefault();
+      $(this).lightboxgallery({
+        showCounter: true,
+        showTitle: true,
+        showDescription: true
+      });
+    });
+  });
+  </script>
+
 </footer>
