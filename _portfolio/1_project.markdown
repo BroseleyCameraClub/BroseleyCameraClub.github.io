@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project
+title: Graham
 description: a project with a background image
 img: /assets/img/12.jpg
 ---

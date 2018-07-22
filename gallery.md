@@ -1,11 +1,11 @@
 ---
 layout: page
-title: gallery
-<!-- menu: main -->
+title: Gallery
+menu: main
 permalink: /gallery/
 ---
 
-{% for project in site.portfolio %}
+{% for project in site.portfolio limit:6 %}
 
 {% if project.redirect %}
 <div class="project">

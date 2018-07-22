@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery
-menu: main
+<!-- menu: main -->
 permalink: /gallery/
 ---
 
