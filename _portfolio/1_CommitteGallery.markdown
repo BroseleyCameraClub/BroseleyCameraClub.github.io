@@ -8,7 +8,7 @@ img: /assets/img/12.jpg
 
 We have a range of abilities from complete novice, to highly experienced. All of which try to help each other out where possible to improve both knowledge and images.
 
-Here are a few images for some of our Committee Members...
+Here are a few images from some of our Committee Members...
 
 #### John Horton.
 
