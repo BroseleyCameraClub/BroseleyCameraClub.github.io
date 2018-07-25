@@ -2,7 +2,7 @@
 layout: post
 title: Judy Moore
 description: Images from Judy Moore
-img: /assets/img/5.jpg
+img: /assets/img/JudyMoore/Morning Mist.jpg
 date: 2018-07-20 19:00:00 
 published: true
 ---

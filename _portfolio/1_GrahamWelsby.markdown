@@ -3,7 +3,7 @@ layout: post
 title: Graham Welsby
 description: Images from Graham Welsby
 date: 2018-07-20 19:00:00
-img: /assets/img/4.jpg
+img: /assets/img/GrahamWelsby/The three Tenors.jpg
 ---
 
 We have a range of abilities from complete novice, to highly experienced. All of which try to help each other out where possible to improve both knowledge and images.

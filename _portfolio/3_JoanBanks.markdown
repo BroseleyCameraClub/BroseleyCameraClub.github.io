@@ -2,7 +2,7 @@
 layout: post
 title: Joan Banks
 description: Images from Joan Banks
-img: /assets/img/3.jpg
+img: /assets/img/JoanBanks/Fireworks.jpg
 date: 2018-07-20 19:00:00
 published: true
 ---

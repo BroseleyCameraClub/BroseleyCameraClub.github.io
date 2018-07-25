@@ -2,7 +2,7 @@
 layout: post
 title: Trevor Rowley
 description: Images from Trevor Rowley
-img: /assets/img/1.jpg
+img: /assets/img/TrevorRowley/Long Horns.jpg
 date: 2018-07-20 19:00:00 
 published: true
 ---

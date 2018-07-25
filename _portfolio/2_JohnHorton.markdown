@@ -3,7 +3,7 @@ layout: post
 title: John Horton
 description: Images from John Horton
 date: 2018-07-20 19:00:00
-img: /assets/img/6.jpg
+img: /assets/img/JohnHorton/Caernarfon Castle.jpg
 ---
 
 We have a range of abilities from complete novice, to highly experienced. All of which try to help each other out where possible to improve both knowledge and images.
