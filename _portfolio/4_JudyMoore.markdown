@@ -7,21 +7,13 @@ date: 2018-07-20 19:00:00
 published: true
 ---
 
-The programme we set out each year is not only to discuss different technical aspect of photography, different topics of photography, but also to inspire our members to get out and practice, and research different aspects of photography, particularly the areas they enjoy the most.
-
-We also help individually through out the year on our outings and talks, every meeting has time for members to mingle and ask the more 'experienced' members questions.
-
-Here are a few images form...
-
-#### Judy Moore.
-
 <div class="lightboxgallery-gallery">
 	<div class="img_row">
-		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/JudyMoore/Butterfly.jpg" target="_blank" data-title="Judy Moore" data-alt="Judy Moore">
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/JudyMoore/Butterfly.jpg" target="_blank" data-title="Judy Moore - Butterfly" data-alt="Judy Moore">
 			<img  class="col one" src="{{ site.baseurl }}/assets/img/JudyMoore/Butterfly.jpg" alt="Butterfly" title="Butterfly"/></a>
-		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/JudyMoore/Morning Mist.jpg" target="_blank" data-title="Judy Moore" data-alt="Judy Moore">
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/JudyMoore/Morning Mist.jpg" target="_blank" data-title="Judy Moore - Morning Mist" data-alt="Judy Moore">
 			<img class="col one" target="_blank" src="{{ site.baseurl }}/assets/img/JudyMoore/Morning Mist.jpg" alt="Morning Mist" title="Morning Mist"/></a>
-		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/JudyMoore/Snow and more Snow.jpg" target="_blank" data-title="Judy Moore" data-alt="Judy Moore">
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/JudyMoore/Snow and more Snow.jpg" target="_blank" data-title="Judy Moore - Snow and more Snow" data-alt="Judy Moore">
 			<img class="col one" target="_blank" src="{{ site.baseurl }}/assets/img/JudyMoore/Snow and more Snow.jpg" alt="Snow and more Snow" title="Snow and more Snow"/></a>
 	</div>
 	<div class="col three caption">
@@ -29,10 +21,13 @@ Here are a few images form...
 	</div>
 </div>
 
-<br><br>
+<br>
 
-As members you can also have some featured images, please send them into <a href="mailto:grahamwelsby@gmail.com">Graham Welsby</a> and we'll get them added to the members gallery.
-
-Please take a look at our other <a href="{{ site.baseurl }}/gallery/">Galleries</a>...
-
-
+<div class="PageNavigation">
+  {% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+  {% endif %}
+</div>

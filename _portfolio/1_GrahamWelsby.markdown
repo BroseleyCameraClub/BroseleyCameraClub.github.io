@@ -6,12 +6,6 @@ date: 2018-07-20 19:00:00
 img: /assets/img/GrahamWelsby/The three Tenors.jpg
 ---
 
-We have a range of abilities from complete novice, to highly experienced. All of which try to help each other out where possible to improve both knowledge and images.
-
-Here are a few images from...
-
-#### Graham Welsby.
-
 <div class="lightboxgallery-gallery">
 	<div class="img_row">
 		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/GrahamWelsby/Simple BW.jpg" target="_blank" data-title="Graham Welsby - Simple Black & White" data-alt="Graham Welsby">	
@@ -39,9 +33,14 @@ If you would like to see more of Graham's work - you can find more <a href="http
 
 <br>
 
-As members you can also have some featured images, please send them into <a href="mailto:grahamwelsby@gmail.com">Graham Welsby</a> and we'll get them added to the members gallery.
-
-Please take a look at our other <a href="{{ site.baseurl }}/gallery/">Galleries</a>...
+<div class="PageNavigation">
+  {% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+  {% endif %}
+  {% if page.next.url %}
+    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+  {% endif %}
+</div>
 
 
 <!-- <div class="img_row">

@@ -5,6 +5,16 @@ menu: main
 permalink: /gallery/
 ---
 
+The programme we set out each year is not only to discuss different technical aspect of photography, different topics of photography, but also to inspire our members to get out and about to practice, and research different aspects of photography, particularly the areas they enjoy the most.
+
+We also help individually through out the year on our outings and talks, every meeting has time for members to mingle and ask the more 'experienced' members questions.
+
+We have a range of abilities from complete novice, to highly experienced. All of which try to help each other out where possible to improve both knowledge and images.
+
+As members you can also have some featured images, please send them into <a href="mailto:grahamwelsby@gmail.com">Graham Welsby</a> and we'll get them added to the members gallery.
+
+Please browse through some of our member galleries below...
+
 {% for project in site.portfolio limit:6 %}
 
 {% if project.redirect %}
