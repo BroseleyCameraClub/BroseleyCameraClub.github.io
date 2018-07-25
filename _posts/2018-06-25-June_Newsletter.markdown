@@ -102,5 +102,3 @@ You can view our current programme here - <a href="{{ site.baseurl }}/programme/
 <br>
 
 #### Members receive full details via Email and BEFORE they are posted here...
-
-<br>

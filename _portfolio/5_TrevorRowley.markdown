@@ -17,17 +17,9 @@ published: true
 			<img class="col one" target="_blank" src="{{ site.baseurl }}/assets/img/TrevorRowley/ww2-ironbridge Soldiers.jpg" alt="ww2-ironbridge Soldiers" title="ww2-ironbridge Soldiers"/></a>
 	</div>
 	<div class="col three caption">
-		Trevor has a unique eye, his entries in the monthly competitions are always a surprise. He too has made great progress with his images steadily improving. 
+		Trevor has a unique eye, he too has made great progress with his images steadily improving. 
 	</div>
 </div>
 
 <br>
 
-<div class="PageNavigation">
-  {% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-  {% endif %}
-  {% if page.next.url %}
-    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
-  {% endif %}
-</div>

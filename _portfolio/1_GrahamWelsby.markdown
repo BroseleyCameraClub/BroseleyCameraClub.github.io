@@ -33,15 +33,6 @@ If you would like to see more of Graham's work - you can find more <a href="http
 
 <br>
 
-<div class="PageNavigation">
-  {% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-  {% endif %}
-  {% if page.next.url %}
-    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
-  {% endif %}
-</div>
-
 
 <!-- <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>

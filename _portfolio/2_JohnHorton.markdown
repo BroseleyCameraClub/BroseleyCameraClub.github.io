@@ -33,12 +33,3 @@ img: /assets/img/JohnHorton/Caernarfon Castle.jpg
 Should you want to see more of John's work - you can find it <a href="https://www.flickr.com/photos/9258223@N05/" target="_blank">HERE</a>
 
 <br>
-
-<div class="PageNavigation">
-  {% if page.previous.url %}
-    <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-  {% endif %}
-  {% if page.next.url %}
-    <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
-  {% endif %}
-</div>

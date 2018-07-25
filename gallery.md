@@ -13,7 +13,7 @@ We have a range of abilities from complete novice, to highly experienced. All of
 
 As members you can also have some featured images, please send them into <a href="mailto:grahamwelsby@gmail.com">Graham Welsby</a> and we'll get them added to the members gallery.
 
-Please browse through some of our member galleries below...
+Please click the links below to browse through some of our member galleries below...
 
 {% for project in site.portfolio limit:6 %}
 
