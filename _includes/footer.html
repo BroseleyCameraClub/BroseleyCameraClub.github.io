@@ -4,31 +4,18 @@
   	<p>Additional Links: &nbsp;&nbsp;<a href="{{ site.baseurl }}/comp_rules/">Competition Rules</a> &nbsp; |  &nbsp; <a href="{{ site.baseurl }}/Judging_Images/">Tips on Judging Images</a></p>
   	<p>All images on this site are copyright to the photographer and owner. All rights reserved to Broseley Camera Club &#169; 2018</p>
   </div>
-
+  
+<!-- JQuery CDN -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
 <!-- Lightbox Scripts -->
   <script src="{{ site.baseurl }}/assets/js/lightboxgallery-min.js"></script>
-    <script type="text/javascript">
-    jQuery(function($) {
-      $(document).on('click', '.lightboxgallery-gallery-item', function(event) {
-        event.preventDefault();
-        $(this).lightboxgallery({
-          showCounter: true,
-          showTitle: true,
-          showDescription: true
-        });
-      });
-    });
-    </script>
+
 <!-- Owl Carousel Scripts -->
-<script src="{{ site.baseurl }}/assets/js/owl.carousel.min.js"></script>
-<script src="{{ site.baseurl }}/assets/js/.animate.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/owl.carousel.min.js"></script>
+  <script src="{{ site.baseurl }}/assets/js/.animate.js"></script>
 
-<script>
-  $(document).ready(function(){
-  $(".owl-carousel").owlCarousel();
-});
-
-</script>
+<!-- Custome Scripts for site options -->
+  <script src="{{ site.baseurl }}/assets/js/custom.js"></script>
 
 </footer>
