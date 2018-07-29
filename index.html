@@ -19,4 +19,23 @@ layout: default
 
   <br/> <br/>
 
-    Please feel free to browse through our <a href="{{ site.url }}/gallery/">galleries</a> and <a href="{{ site.url }}/news/">snippets</a> from our members newsletters. Take a look at what we are up to this year in our <a href="{{ site.url }}/programme/">Programme</a> and/or contact us to find out more.
+    Please feel free to browse through our <strong><a href="{{ site.url }}/gallery/">Galleries</a></strong> and <strong><a href="{{ site.url }}/news/">Snippets</a></strong> from our members newsletters. Take a look at what we are up to this year in our <strong><a href="{{ site.url }}/programme/">Programme</a></strong> and/or contact us to find out more.
+
+  <br/> <br/>
+
+<h2>our latest news...</h2>
+
+<br>
+
+<div>
+{% for post in site.posts limit:2 %}
+  <div class="col half home-post">
+    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.description }}</a></h2>
+    <p class="post-meta">{{ post.date | date: '%-d %B, %Y' }}</p>
+  </div>
+{% endfor %}
+</div>
+
+<br/> <br/>
+
+
