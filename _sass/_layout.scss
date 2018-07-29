@@ -130,6 +130,11 @@ margin: 10px;
 .center{
 text-align: center;
 }
+
+.home-post{
+    border-left: 1px solid #bdc3c7;
+    padding: 10%;
+}
 /**
  * Posts  **********************************************************
  */
@@ -300,3 +305,5 @@ font-size: $caption_font_size;
 .PageNavigation .next {
   text-align: right;
 }
+
+
