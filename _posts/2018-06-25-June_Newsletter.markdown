@@ -2,7 +2,7 @@
 layout: post
 title:  june meeting news
 date: 2018-06-25 19:00:00
-description: news from our May 2018 Meeting.
+description: news from our June 2018 Meeting.
 ---
 
 A quick welcome from the Chairman and continued on with the evenings subject.
