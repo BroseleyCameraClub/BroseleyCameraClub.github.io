@@ -15,6 +15,20 @@ As members you can also have some featured images, please send them into <a href
 
 Please click the links below to browse through some of our member galleries below...
 
+<br>
+
+<div class="custom1 owl-carousel owl-theme">
+    <div class="item">
+      <h4>1</h4>
+    </div>
+    <div class="item">
+      <h4>2</h4>
+    </div>
+    <div class="item">
+      <h4>3</h4>
+    </div>
+</div>
+
 {% for project in site.portfolio limit:6 %}
 {% if project.redirect %}
 <div class="project">
