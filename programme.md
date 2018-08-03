@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Programme
+description: Broseley Camera Clubs programmes. Here you can find out what we have done and what we are going to be doing.
 menu: main
 permalink: /programme/
 ---

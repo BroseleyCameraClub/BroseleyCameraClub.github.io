@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Black &amps; White
-description: Images from our Black &amps; White Exhibition
+title: Black &amp; White
+description: Images from our Black &amp; White Exhibition
 date: 2018-07-20 19:00:00
 img: /assets/img/GrahamWelsby/The three Tenors.jpg
 ---

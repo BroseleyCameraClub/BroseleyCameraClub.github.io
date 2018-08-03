@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Tips on Judging Images
+description: Tips on Judging within Broseley Camera Clubs Meetings.
 permalink: /Judging_Images/
 ---
 
