@@ -11,8 +11,6 @@ jQuery(function($) {
 
 $(document).ready(function(){
   $('.custom1').owlCarousel({
-    // animateOut: 'flipOutDown',
-    // animateIn: 'flipInX',
     animateOut: 'slideOutUp',
     animateIn: 'slideInUp',
     items:1,
