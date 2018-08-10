@@ -348,4 +348,11 @@ text-align: center;
 display: block;
 }
 
+// Gallery Pages
 
+.lightboxgallery-gallery img{
+height: $img_height;
+overflow: hidden;
+box-sizing:border-box;
+padding: $img_spacing;
+}
