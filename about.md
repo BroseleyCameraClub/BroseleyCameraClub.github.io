@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: We are a friendly bunch of amateur photography enthusiasts, meeting once a month with a range of practical tips and helpful advice.
 menu: main
 permalink: /about/
 ---

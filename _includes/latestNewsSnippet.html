@@ -1,0 +1,12 @@
+<h2>our latest news...</h2>
+
+<br>
+
+<div>
+{% for post in site.posts limit:2 %}
+  <div class="col half home-post">
+    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.description }}</a></h2>
+    <p class="post-meta">{{ post.date | date: '%-d %B, %Y' }}</p>
+  </div>
+{% endfor %}
+</div>  

@@ -12,7 +12,7 @@ News features are from all the latest meetings.
 > These will not be the full news letters, but snippets. Full members recieve these files via email.
 
 ### Gallery
-These will be a selection of Portfolio type galleries. As well as special features such as Exhibitions, Member Galleries, and Competitions.
+This is a selection of Portfolio type galleries. As well as special features such as Exhibitions, Member Galleries, and Competitions.
 
 ### News
 Programme - Past and present. The programme page lists programmes from the past several years, as well as the current year.

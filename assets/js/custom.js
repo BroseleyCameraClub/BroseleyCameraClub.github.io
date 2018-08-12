@@ -10,5 +10,20 @@ jQuery(function($) {
 });
 
 $(document).ready(function(){
+<<<<<<< HEAD
   $(".owl-carousel").owlCarousel();
+=======
+  $('.custom1').owlCarousel({
+    animateOut: 'slideOutUp',
+    animateIn: 'slideInUp',
+    items:1,
+    // nav:true, 
+    margin:30,
+    smartSpeed:450,
+    loop: true,
+    autoplay:true,
+    autoplayTimeout:2000,
+    autoplayHoverPause:true
+	});
+>>>>>>> Development
 });

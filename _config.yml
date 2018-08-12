@@ -26,5 +26,9 @@ collections:
   programme:
     output: true
     permalink: /programme/:path/
+  featured:
+    output: true
+    permalink: /featured/:path/
+
 
 

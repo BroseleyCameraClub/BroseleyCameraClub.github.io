@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Competition Rules
+description: Competition rules for the Broseley Camera Club.
 permalink: /comp_rules/
 ---
 
