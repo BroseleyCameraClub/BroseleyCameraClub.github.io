@@ -6,9 +6,12 @@ date: 2018-07-30 19:30:00
 img: /assets/img/Shrewsbury_Visit/Shrewsbury_A-GrahamWelsby.jpg
 ---
 
+Here are some of our images from our visit to Shrewsbury. 
+
+Please Click on the images to enlarge.
 
 <div class="lightboxgallery-gallery">
-	<!-- GrahamWelsby -->
+	<!-- Graham Welsby -->
 		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/Shrewsbury_Visit/Shrewsbury_A-GrahamWelsby.jpg" target="_blank" data-title="Graham Welsby - St Michael" data-alt="Graham Welsby">	
 			<img class="col one" src="{{ site.baseurl }}/assets/img/Shrewsbury_Visit/Shrewsbury_A-GrahamWelsby.jpg" alt="St Michael" title="St Michael"/>
 		</a>
@@ -24,7 +27,7 @@ img: /assets/img/Shrewsbury_Visit/Shrewsbury_A-GrahamWelsby.jpg
 			<img class="col one" src="{{ site.baseurl }}/assets/img/Shrewsbury_Visit/Shrewsbury_D-GrahamWelsby.jpg" alt="Old Eye Ear &amp; Throat" title="Old Eye Ear &amp; Throat"/>
 		</a>
 
-	<!-- JohnHorton -->
+	<!-- John Horton -->
 		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/Shrewsbury_Visit/Shrewsbury_A-JohnHorton.jpg" target="_blank" data-title="John Horton - Station" data-alt="John Horton">
 			<img  class="col one" src="{{ site.baseurl }}/assets/img/Shrewsbury_Visit/Shrewsbury_A-JohnHorton.jpg" alt="Station" title="Station"/>
 		</a>
@@ -41,4 +44,38 @@ img: /assets/img/Shrewsbury_Visit/Shrewsbury_A-GrahamWelsby.jpg
 			<img class="col one" target="_blank" src="{{ site.baseurl }}/assets/img/Shrewsbury_Visit/Shrewsbury_D-JohnHorton.jpg" alt="Solitude" title="Solitude"/>
 		</a>
 
+	<!-- Deborah Knight -->
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/Shrewsbury_Visit/Shrewsbury_A-DeborahKnight.jpg" target="_blank" data-title="Deborah Knight - Bridge" data-alt="Deborah Knight">
+			<img  class="col one" src="{{ site.baseurl }}/assets/img/Shrewsbury_Visit/Shrewsbury_A-DeborahKnight.jpg" alt="Bridge" title="Bridge"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/Shrewsbury_Visit/Shrewsbury_B-DeborahKnight.jpg" target="_blank" data-title="Deborah Knight - Old Door" data-alt="Deborah Knight">
+			<img  class="col one" src="{{ site.baseurl }}/assets/img/Shrewsbury_Visit/Shrewsbury_B-DeborahKnight.jpg" alt="Old Door" title="Old Door"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/Shrewsbury_Visit/Shrewsbury_C-DeborahKnight.jpg" target="_blank" data-title="Deborah Knight - Post Box" data-alt="Deborah Knight">
+			<img  class="col one" src="{{ site.baseurl }}/assets/img/Shrewsbury_Visit/Shrewsbury_C-DeborahKnight.jpg" alt="Post Box" title="Post Box"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/Shrewsbury_Visit/Shrewsbury_D-DeborahKnight.jpg" target="_blank" data-title="Deborah Knight - Henry Tudor" data-alt="Deborah Knight">
+			<img  class="col one" src="{{ site.baseurl }}/assets/img/Shrewsbury_Visit/Shrewsbury_D-DeborahKnight.jpg" alt="Henry Tudor" title="Henry Tudor"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/Shrewsbury_Visit/Shrewsbury_E-DeborahKnight.jpg" target="_blank" data-title="Deborah Knight - Alley Way" data-alt="Deborah Knight">
+			<img  class="col one" src="{{ site.baseurl }}/assets/img/Shrewsbury_Visit/Shrewsbury_E-DeborahKnight.jpg" alt="Alley Way" title="Alley Way"/>
+		</a>
+
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+

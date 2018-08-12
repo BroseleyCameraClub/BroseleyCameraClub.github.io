@@ -19,24 +19,7 @@ Please click the links below to browse through some of our featured and member g
 
 <br>
 
-<h4>Featured Galleries</h4>
-
-<div class="custom1 owl-carousel owl-theme">
-<!-- featured gallery loop -->
-    {% for item in site.featured limit:6 %}
-        <div class="featuredThumbnail">
-          <a href="{{ item.baseurl }}{{ item.url }}">
-            <img class="featuredThumbnail" src="{{ item.img }}"/>
-        <span>
-            <h1>{{ item.title }}</h1>
-            <br/>
-            <p>{{ item.description }}</p>
-        </span>
-            </a>
-        </div>
-    {% endfor %}
-</div>
-
+{% include featuredGallery.html %}
 
 <br><br>
 <div id="membersGallery">

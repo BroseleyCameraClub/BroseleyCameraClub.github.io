@@ -3,26 +3,37 @@ layout: post
 title: Black &amp; White
 description: Images from our Black &amp; White Exhibition
 date: 2018-07-20 19:00:00
-img: /assets/img/GrahamWelsby/The three Tenors.jpg
+img: /assets/img/BlackWhite/BlackWhite_A-GrahamWelsby.jpg
 ---
 
+Here are some of our images from our exhibition for Black &amp; White. 
+
+Please Click on the images to enlarge.
+
 <div class="lightboxgallery-gallery">
-	<div class="img_row">
-		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/GrahamWelsby/Simple BW.jpg" target="_blank" data-title="Graham Welsby - Simple Black & White" data-alt="Graham Welsby">	
-			<img class="col one" src="{{ site.baseurl }}/assets/img/GrahamWelsby/Simple BW.jpg" alt="Simple Black & White" title="Simple Black & White"/></a>
-		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/GrahamWelsby/The three Tenors.jpg" target="_blank" data-title="Graham Welsby - The Three Tenors" data-alt="Graham Welsby">	
-			<img class="col one" src="{{ site.baseurl }}/assets/img/GrahamWelsby/The three Tenors.jpg" alt="The three Tenors" title="The three Tenors"/></a>
-		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/GrahamWelsby/Versus.jpg" target="_blank" data-title="Graham Welsby - Versus" data-alt="Graham Welsby">	
-			<img class="col one" src="{{ site.baseurl }}/assets/img/GrahamWelsby/Versus.jpg" alt="Versus" title="Versus"/></a>
-	</div>
-	<div class="col three caption">
-		Graham is the Club Chairman, his preferred images are portraits due to the interaction with the subjects, but all in all he just likes all aspects of photography. 
-	</div>
-	<div class="img_row">
-		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/GrahamWelsby/Nice to see you.jpg" target="_blank" data-title="Graham Welsby - Nice to see you." data-alt="Graham Welsby">
-			<img class="col three" src="{{ site.baseurl }}/assets/img/GrahamWelsby/Nice to see you.jpg" alt="Nice to see you" title="Nice to see you"/></a>
-	</div>
-	<div class="col three caption">
-		Graham likes to get quirky and fun. 
-	</div>
+	<!-- Graham Welsby -->
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_A-GrahamWelsby.jpg" target="_blank" data-title="Graham Welsby - Planets" data-alt="Graham Welsby">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_A-GrahamWelsby.jpg" alt="Planets" title="Planets"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_B-GrahamWelsby.jpg" target="_blank" data-title="Graham Welsby - The Towers" data-alt="Graham Welsby">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_B-GrahamWelsby.jpg" alt="The Towers" title="The Towers"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_C-GrahamWelsby.jpg" target="_blank" data-title="Graham Welsby - Canal" data-alt="Graham Welsby">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_C-GrahamWelsby.jpg" alt="Canal" title="Canal"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_D-GrahamWelsby.jpg" target="_blank" data-title="Graham Welsby - WWII Day" data-alt="Graham Welsby">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_D-GrahamWelsby.jpg" alt="WWII Day" title="WWII Day"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_E-GrahamWelsby.jpg" target="_blank" data-title="Graham Welsby - You Boy" data-alt="Graham Welsby">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_E-GrahamWelsby.jpg" alt="You Boy" title="You Boy"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_F-GrahamWelsby.jpg" target="_blank" data-title="Graham Welsby - Wedding Day" data-alt="Graham Welsby">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_F-GrahamWelsby.jpg" alt="Wedding Day" title="Wedding Day"/>
+		</a>
+
 </div>
