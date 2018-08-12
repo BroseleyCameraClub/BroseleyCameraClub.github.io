@@ -10,9 +10,6 @@ jQuery(function($) {
 });
 
 $(document).ready(function(){
-<<<<<<< HEAD
-  $(".owl-carousel").owlCarousel();
-=======
   $('.custom1').owlCarousel({
     animateOut: 'slideOutUp',
     animateIn: 'slideInUp',
@@ -25,5 +22,4 @@ $(document).ready(function(){
     autoplayTimeout:2000,
     autoplayHoverPause:true
 	});
->>>>>>> Development
 });
