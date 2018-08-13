@@ -36,4 +36,34 @@ Please Click on the images to enlarge.
 			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_F-GrahamWelsby.jpg" alt="Wedding Day" title="Wedding Day"/>
 		</a>
 
+	<!-- Joan Banks -->
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_A-JoanBanks.jpg" target="_blank" data-title="Joan Banks - Alien" data-alt="Joan Banks">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_A-JoanBanks.jpg" alt="Alien" title="Alien"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_B-JoanBanks.jpg" target="_blank" data-title="Joan Banks - Old Bridge" data-alt="Joan Banks">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_B-JoanBanks.jpg" alt="Old Bridge" title="Old Bridge"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_C-JoanBanks.jpg" target="_blank" data-title="Joan Banks - Fairy Wind" data-alt="Joan Banks">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_C-JoanBanks.jpg" alt="Fairy Wind" title="Fairy Wind"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_D-JoanBanks.jpg" target="_blank" data-title="Joan Banks - Big Jump" data-alt="Joan Banks">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_D-JoanBanks.jpg" alt="Big Jump" title="Big Jump"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_E-JoanBanks.jpg" target="_blank" data-title="Joan Banks - Looking Up" data-alt="Joan Banks">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_E-JoanBanks.jpg" alt="Looking Up" title="Looking Up"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_F-JoanBanks.jpg" target="_blank" data-title="Joan Banks - Stop Shouting" data-alt="Joan Banks">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_F-JoanBanks.jpg" alt="Stop Shouting" title="Stop Shouting"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_G-JoanBanks.jpg" target="_blank" data-title="Joan Banks - Wobbly Stairs" data-alt="Joan Banks">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_G-JoanBanks.jpg" alt="Wobbly Stairs" title="Wobbly Stairs"/>
+		</a>
+
+
 </div>
