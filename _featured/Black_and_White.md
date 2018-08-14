@@ -65,5 +65,38 @@ Please Click on the images to enlarge.
 			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_G-JoanBanks.jpg" alt="Wobbly Stairs" title="Wobbly Stairs"/>
 		</a>
 
+	<!-- John Horton -->
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_A-JohnHorton.jpg" target="_blank" data-title="John Horton - Abandoned" data-alt="John Horton">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_A-JohnHorton.jpg" alt="Abandoned" title="Abandoned"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_B-JohnHorton.jpg" target="_blank" data-title="John Horton - Partly Obscure" data-alt="John Horton">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_B-JohnHorton.jpg" alt="Partly Obscure" title="Partly Obscure"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_C-JohnHorton.jpg" target="_blank" data-title="John Horton - Venetian Thoroughfare" data-alt="John Horton">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_C-JohnHorton.jpg" alt="Venetian Thoroughfare" title="Venetian Thoroughfare"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_D-JohnHorton.jpg" target="_blank" data-title="John Horton - Market Day" data-alt="John Horton">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_D-JohnHorton.jpg" alt="Market Day" title="Market Day"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_E-JohnHorton.jpg" target="_blank" data-title="John Horton - Broken" data-alt="John Horton">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_E-JohnHorton.jpg" alt="Broken" title="Broken"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_F-JohnHorton.jpg" target="_blank" data-title="John Horton - Montpeyroux" data-alt="John Horton">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_F-JohnHorton.jpg" alt="Montpeyroux" title="Montpeyroux"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_G-JohnHorton.jpg" target="_blank" data-title="John Horton - Redundant" data-alt="John Horton">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_G-JohnHorton.jpg" alt="Redundant" title="Redundant"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_H-JohnHorton.jpg" target="_blank" data-title="John Horton - Venice" data-alt="John Horton">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_H-JohnHorton.jpg" alt="Venice" title="Venice"/>
+		</a>
+
 
 </div>
