@@ -98,5 +98,14 @@ Please Click on the images to enlarge.
 			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_H-JohnHorton.jpg" alt="Venice" title="Venice"/>
 		</a>
 
+	<!-- Trevor Rowley -->
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_A-TrevorRowley.jpg" target="_blank" data-title="Trevor Rowley - WWII - Ironbridge" data-alt="Trevor Rowley">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_A-TrevorRowley.jpg" alt="WWII - Ironbridge" title="WWII - Ironbridge"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_B-TrevorRowley.jpg" target="_blank" data-title="Trevor Rowley - WWII - Ironbridge" data-alt="Trevor Rowley">	
+			<img class="col one" src="{{ site.baseurl }}/assets/img/BlackWhite/BlackWhite_B-TrevorRowley.jpg" alt="WWII - Ironbridge" title="WWII - Ironbridge"/>
+		</a>
+
 
 </div>
