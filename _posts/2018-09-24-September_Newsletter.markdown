@@ -1,0 +1,82 @@
+---
+layout: post
+title:  september meeting news
+date: 2018-09-24 19:00:00
+description: news from our September 2018 Meeting.
+---
+
+A bit of an improvised evening we could not get a guest speaker as set out in the annual programme. However, this provided us with the opportunity to look at a number of photographs and a couple of videos. We started off by looking at a few images taken during the evening in Shrewsbury. Though mainly local architecture, a few arboreal and street photography images were viewed. As usual a few comments were made about composition but nothing unreasonable and all the ‘errors’ could be easily avoided with a little thought. The following collection of images were somewhat harder to ‘correct’ as they needed impossible viewpoints and lots of patience – A talk of the club visit to Chester Zoo. It seems that the animals on view were anything but co-operative. Having said that, many of the images shown were well received.
+
+We then went onto a brief discussion about photo’ software. Not everyone has, or indeed wants, Lightroom or Photoshop. A number of free products are available including <a href="http://www.faststone.org/" target="_blank">Faststone</a> and <a href="https://www.gimp.org/" target="_blank">GIMP</a>. Graham gave a short demonstration of ‘Faststone’. GIMP is a little more sophisticated and based upon Photoshop Elements. Should anyone require a tutorial on this type of software please contact either Graham or myself.
+
+There followed a couple of videos by an American photographer about how to deal with silhouettes and photographing directly into the Sun. Short in duration they were very informative. If anyone wants to view either video again please contact Graham.
+
+The ‘Monthly Competition’ entitled 'Showers &amp; Inclement Weather' was held.
+
+The winners were:-
+
+<ul>
+	<li>1st - 'Waiting in the Rain' by Sue Poole</li>
+	<li>2nd - 'Storm in a Tea Cup' by Joan Banks</li>
+	<li>3rd - 'Between Showers' by Judy Moore</li>
+</ul>
+
+<br>
+
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/assets/img/Waiting_In_The_Rain.jpg">
+</div>
+<div class="col three caption">
+	'Waiting in the Rain' by Sue Poole
+</div>
+
+<div class="img_row">
+	<img class="col two" src="{{ site.baseurl }}/assets/img/Storm_In_A_Tea_Cup.jpg">
+	<img class="col one" src="{{ site.baseurl }}/assets/img/Between_Showers.jpg">
+</div>
+<div class="col three caption">
+	Some of these images have been cropped for a better fit for the website.
+</div>
+
+<br>
+
+Please note that entries (rectangular, up to 7 x 5 ins) for the Monthly competition can be made without mounts – when needed, mounts will be available at the start of the session. 
+
+<br>
+
+In future newsletters we shall be advising you of whatever events we can discover that should provide some interesting photo opportunities. They may or may not be relevant to the discussions of the previous or immediate future meetings but should be of photographic interest in their own right. A little traveling may be required but we’ll keep the items as local as possible.
+
+<br>
+
+### Events in October &amp; Early November
+<br>
+
+14th October Birmingham Half Marathon (kicks of at 10:30 from the ICC Birmingham). The route includes Edgbaston Cricket Ground, Cannon Hill Park, Bournville and the run ends at Millennium Point.
+
+### Fireworks Displays
+<br>
+
+3rd November Greenhouse West Mids Show ground - For details see click - <a href="https://originalshrewsbury.co.uk/see-do/events/shrewsburys-fireworks-bonfire-spectacular" target="_blank" >HERE</a>
+
+11th October Weston Park. Starts at 17:30. For details see click <a href="http://www.weston-park.com/event/bonfire-fireworks/" target="_blank">HERE</a>
+
+10th November Broadocks (or is that Broadoaks) Playing Field - Donnington, Telford TF2 8AW. Gates open 16:00 Displays at 19:00 & 21:00 for details click <a href="https://www.familiesonline.co.uk/local/shropshire/whats-on/donnington-bonfire-and-fireworks" target="_blank">HERE</a>
+
+Halloween Shrewsbury Prison Scream Park - Dana Prison On 12th, 13th, 18th – 20th, 25th – 27th October. - For details click <a href="https://www.imevents.global/spsp" target="_blank">HERE</a>
+
+### NEXT MEETING
+<br>
+
+Our next meeting will be at the Birchmeadow Centre, Broseley 19:30 on Monday 29th October 2018. 
+
+The competition is entitled...
+<ul>
+<li>Monthly - 'Three's in Nature</li>
+<li>Quarterly - Circles</li>
+</ul>
+
+You can view our current programme here - <a href="{{ site.baseurl }}/programme/2018-02-01-Forward-Programme-2018-2019">PROGRAMME 2018-2019</a>
+
+<br>
+
+#### Members receive full details via Email and BEFORE they are posted here...
