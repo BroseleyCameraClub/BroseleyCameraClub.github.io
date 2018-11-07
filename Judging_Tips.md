@@ -7,10 +7,7 @@ permalink: /Judging_Images/
 
 <!-- <img class="col one right" src="/assets/img/prof_pic.jpg"> -->
 
-<br/>
-Broseley Camera Club 2018
-
-#### Tips on what to look out for when Judging.
+#### What is it you should look out for when Judging.
 
 <br>
 
@@ -18,7 +15,7 @@ Broseley Camera Club 2018
 
 2. **Blown highlights** – Another easy one for a judge. There are obviously some exceptions to this, i.e. spectral highlights, with the sun reflecting off shiny surfaces or artificial lights at night etc. But otherwise be careful.
 
-3. **Too tight cropping** – Give the subject room to move into or look into the picture. Alternatively crop really close in so there's no mistake as to what is intended.
+3. **Cropping is too tight** – Give the subject room to move into or look into the picture. Alternatively crop really close in so there's no mistake as to what is intended.
 
 4. **Over-sharpening** – Especially don't try to compensate for poorly focused or soft images. If the image is to be a print and is not as sharp as you would like, try printing it smaller (within reason). Or save it for the Small Print competition.
 
