@@ -19,11 +19,11 @@ The Club usually meets on the last Monday of each month, at 7:30pm in Birchmeado
 
 Please click <a href="{{ site.url }}/programme/">HERE</a> to see what we are doing this year.
 
-We have a £15 per year membership fee. Guests are also welcome to try out prior to becoming a member, these are charged at £2 for the first evening, £13 Membership Fee the following meeting. There is a small 50p charge per club evening to cover costs of Coffee/Tea. 
+We have a £15 per year membership fee. Guests are also welcome to try out prior to becoming a member, these are charged at £2 for the first evening, £13 Membership Fee the following meeting. There is a small 50 pence charge per club evening to cover costs of Coffee/Tea. 
 
 As a member, you receive regular emails including meeting reminders and monthly newsletters with details from the last meeting, these also include links to download the latest presentations.
  
-If you are interested in joining, come along to any meeting or contact our Club Secretary John Horton for further details <a href="mailto:john.horton4@btinternet.com">john.horton4@btinternet.com</a>
+If you are interested in joining, come along to any meeting or contact our Club Secretary John Horton for further details <a href="mailto:BroseleyPhotography@gmail.com">CLICK HERE TO EMAIL</a>
 
 
 <br/>
@@ -38,6 +38,6 @@ If you are interested in joining, come along to any meeting or contact our Club 
 </span>
 
 <div class="col three caption">
-	If you are interested in joining, come along to any meeting or contact John Horton for further details john.horton4@btinternet.com
+	If you are interested in joining, come along to any meeting or contact our Club Secretary John Horton for further details <a href="mailto:BroseleyPhotography@gmail.com">CLICK HERE TO EMAIL</a>
 </div>
 
