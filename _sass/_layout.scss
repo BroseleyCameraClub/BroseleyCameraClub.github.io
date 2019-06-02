@@ -258,6 +258,13 @@ overflow: hidden;
 box-sizing:border-box;
 padding: $img_spacing;
 }
+.img_row_sm{
+height: $img_height_sml;
+width: 100%;
+overflow: hidden;
+box-sizing:border-box;
+padding: $img_spacing;
+}
 .col{ 
 width: 100%;
 height: 100%;
