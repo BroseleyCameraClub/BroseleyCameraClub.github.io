@@ -6,13 +6,9 @@ description: We are a friendly bunch of amateur photography enthusiasts, meeting
 baseurl:
 url: 
 
-
 # Build settings
 markdown: kramdown
-
 highlighter: rouge
-
-
 
 # Pagination
 paginate: 5
