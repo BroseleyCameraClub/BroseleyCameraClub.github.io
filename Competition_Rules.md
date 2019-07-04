@@ -51,6 +51,7 @@ These rules apply to both the Monthly and Quarterly Competitions.
 <ul>
 	<li>There is a maximum of two entries per member for both Monthly and Quarterly.</li>
 	<li>Members must be present to enter competitions.</li>
+	<li>Members are not permitted to vote for their own images.</li>
 	<li>Entries must be the member's own work.</li>
 	<li>Size restrictions as above.</li>
 	<li>Entries must be titled clearly on the front base of the images, and author's name written on the rear of the image.</li>
