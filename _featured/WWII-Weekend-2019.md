@@ -70,23 +70,23 @@ Please Click on the images to enlarge.
 
 
 	<!-- Julie Beddow -->
-		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_A-JulieBeddow.jpg" target="_blank" data-title="Joan Banks - WWII Weekend" data-alt="Julie Beddow">
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_A-JulieBeddow.jpg" target="_blank" data-title="Julie Beddow - WWII Weekend" data-alt="Julie Beddow">
 			<img  class="col one" src="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_A-JulieBeddow.jpg" alt="WWII Weekend" title="WWII Weekend"/>
 		</a>
 
-		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_B-JulieBeddow.jpg" target="_blank" data-title="Joan Banks - WWII Weekend" data-alt="Julie Beddow">
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_B-JulieBeddow.jpg" target="_blank" data-title="Julie Beddow - WWII Weekend" data-alt="Julie Beddow">
 			<img  class="col one" src="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_B-JulieBeddow.jpg" alt="WWII Weekend" title="WWII Weekend"/>
 		</a>
 
-		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_C-JulieBeddow.jpg" target="_blank" data-title="Joan Banks - WWII Weekend" data-alt="Julie Beddow">
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_C-JulieBeddow.jpg" target="_blank" data-title="Julie Beddow - WWII Weekend" data-alt="Julie Beddow">
 			<img  class="col one" src="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_C-JulieBeddow.jpg" alt="WWII Weekend" title="WWII Weekend"/>
 		</a>
 
-		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_D-JulieBeddow.jpg" target="_blank" data-title="Joan Banks - WWII Weekend" data-alt="Julie Beddow">
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_D-JulieBeddow.jpg" target="_blank" data-title="Julie Beddow - WWII Weekend" data-alt="Julie Beddow">
 			<img  class="col one" src="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_D-JulieBeddow.jpg" alt="WWII Weekend" title="WWII Weekend"/>
 		</a>
 
-		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_E-JulieBeddow.jpg" target="_blank" data-title="Joan Banks - WWII Weekend" data-alt="Julie Beddow">
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_E-JulieBeddow.jpg" target="_blank" data-title="Julie Beddow - WWII Weekend" data-alt="Julie Beddow">
 			<img  class="col one" src="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_E-JulieBeddow.jpg" alt="WWII Weekend" title="WWII Weekend"/>
 		</a>
 
