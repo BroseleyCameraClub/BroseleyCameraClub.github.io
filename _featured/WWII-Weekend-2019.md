@@ -90,6 +90,18 @@ Please Click on the images to enlarge.
 			<img  class="col one" src="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_E-JulieBeddow.jpg" alt="WWII Weekend" title="WWII Weekend"/>
 		</a>
 
+	<!-- Judy Moore -->
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_A-JudyMoore.jpg" target="_blank" data-title="Judy Moore - WWII Weekend" data-alt="Judy Moore">
+			<img  class="col one" src="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_A-JudyMoore.jpg" alt="WWII Weekend" title="WWII Weekend"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_B-JudyMoore.jpg" target="_blank" data-title="Judy Moore - WWII Weekend" data-alt="Judy Moore">
+			<img  class="col one" src="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_B-JudyMoore.jpg" alt="WWII Weekend" title="WWII Weekend"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_C-JudyMoore.jpg" target="_blank" data-title="Judy Moore - WWII Weekend" data-alt="Judy Moore">
+			<img  class="col one" src="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_C-JudyMoore.jpg" alt="WWII Weekend" title="WWII Weekend"/>
+		</a>
 </div>
 
 
