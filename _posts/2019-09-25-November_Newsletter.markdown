@@ -105,7 +105,7 @@ The Competitions are entitled...
 </ul>
 
 
-You can view our current programme here - <a href="{{ site.baseurl }}/programme/2018-11-07-Forward-Programme-2019-2020">PROGRAMME 2019-2020</a>
+You can view our current programme here - <a href="{{ site.baseurl }}/programme/2019-11-25-Forward-Programme-2020-2021">PROGRAMME 2019-2020</a>
 
 <br>
 
