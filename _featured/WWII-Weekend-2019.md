@@ -102,6 +102,28 @@ Please Click on the images to enlarge.
 		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_C-JudyMoore.jpg" target="_blank" data-title="Judy Moore - WWII Weekend" data-alt="Judy Moore">
 			<img  class="col one" src="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_C-JudyMoore.jpg" alt="WWII Weekend" title="WWII Weekend"/>
 		</a>
+
+
+<!-- Trevor Rowley -->
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_A-TrevorRowley.jpg" target="_blank" data-title="Trevore Roweley - WWII Weekend" data-alt="Trevore Roweley">
+			<img  class="col one" src="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_A-TrevorRowley.jpg" alt="WWII Weekend" title="WWII Weekend"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_B-TrevorRowley.jpg" target="_blank" data-title="Trevore Roweley - WWII Weekend" data-alt="Trevore Roweley">
+			<img  class="col one" src="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_B-TrevorRowley.jpg" alt="WWII Weekend" title="WWII Weekend"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_C-TrevorRowley.jpg" target="_blank" data-title="Trevore Roweley - WWII Weekend" data-alt="Trevore Roweley">
+			<img  class="col one" src="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_C-TrevorRowley.jpg" alt="WWII Weekend" title="WWII Weekend"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_D-TrevorRowley.jpg" target="_blank" data-title="Trevore Roweley - WWII Weekend" data-alt="Trevore Roweley">
+			<img  class="col one" src="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_D-TrevorRowley.jpg" alt="WWII Weekend" title="WWII Weekend"/>
+		</a>
+
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_E-TrevorRowley.jpg" target="_blank" data-title="Trevore Roweley - WWII Weekend" data-alt="Trevore Roweley">
+			<img  class="col one" src="{{ site.baseurl }}/assets/img/WWII-2019/WWII2019_E-TrevorRowley.jpg" alt="WWII Weekend" title="WWII Weekend"/>
+		</a>
 </div>
 
 

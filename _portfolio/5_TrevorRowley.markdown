@@ -17,7 +17,7 @@ published: true
 			<img class="col one" target="_blank" src="{{ site.baseurl }}/assets/img/TrevorRowley/ww2-ironbridge Soldiers.jpg" alt="ww2-ironbridge Soldiers" title="ww2-ironbridge Soldiers"/></a>
 	</div>
 	<div class="col three caption">
-		Trevor has a unique eye, he too has made great progress with his images steadily improving. 
+		Trevor has a unique eye, he has made great progress with his images and is always improving. 
 	</div>
 </div>
 
