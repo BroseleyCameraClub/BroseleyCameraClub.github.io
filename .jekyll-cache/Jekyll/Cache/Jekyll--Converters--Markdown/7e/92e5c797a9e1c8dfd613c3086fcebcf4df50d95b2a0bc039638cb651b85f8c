@@ -1,0 +1,23 @@
+I"¹<div class="lightboxgallery-gallery">
+	<div class="img_row">
+		<a class="lightboxgallery-gallery-item" href="/assets/img/JoanBanks/Fireworks.jpg" target="_blank" data-title="Joan Banks - Fireworks" data-alt="Joan Banks">
+			<img class="col one" src="/assets/img/JoanBanks/Fireworks.jpg" alt="Fireworks" title="Fireworks" /></a>
+		<a class="lightboxgallery-gallery-item" href="/assets/img/JoanBanks/Bird.jpg" target="_blank" data-title="Joan Banks - Birds" data-alt="Joan Banks">
+			<img class="col one" src="/assets/img/JoanBanks/Bird.jpg" alt="Bird" title="Bird" /></a>
+		<a class="lightboxgallery-gallery-item" href="/assets/img/JoanBanks/Structure.jpg" target="_blank" data-title="Joan Banks - Structure" data-alt="Joan Banks">
+			<img class="col one" src="/assets/img/JoanBanks/Structure.jpg" alt="Structure" title="Structure" /></a>
+	</div>
+	<div class="col three caption">
+		Joan is the Club Treasurer, and is always looking for different angles. She is sometimes on the floor on a plastic bag, or ordering complete strangers around trying to get the shot.
+	</div>
+	<div class="img_row">
+		<a class="lightboxgallery-gallery-item" href="/assets/img/JoanBanks/Raspberry.jpg" target="_blank" data-title="Joan Banks - Raspberry" data-alt="Joan Banks">
+			<img class="col three" src="/assets/img/JoanBanks/Raspberry.jpg" alt="Raspberry" title="Raspberry" /></a>
+	</div>
+	<div class="col three caption">
+		Joan has an eye for detail. 
+	</div>
+</div>
+
+<p><br /></p>
+:ET
