@@ -134,7 +134,6 @@ text-align: center;
 
 .home-post{
     border-left: 1px solid #bdc3c7;
-    padding: 10%;
 }
 /**
  * Posts  **********************************************************
@@ -299,7 +298,7 @@ font-size: $caption_font_size;
 // Page Navigation - Small links at bottom of page.
 
 .PageNavigation {
-  font-size: 14px;
+  font-size: 10px;
   display: block;
   width: auto;
   overflow: hidden;
@@ -362,4 +361,54 @@ height: $img_height;
 overflow: hidden;
 box-sizing:border-box;
 padding: $img_spacing;
+}
+
+
+// Programme Layouts
+
+.parent-prog {
+display: grid;
+grid-template-columns: 1fr 7fr repeat(6, 0);
+grid-template-rows: repeat(1, 1fr);
+grid-column-gap: 0px;
+grid-row-gap: 0px;
+padding: 32px 0px 32px 0px;
+}
+
+.div1 { 
+    margin: auto;
+}
+
+.prog-Date{
+    font-size: 32px;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-right: 20px;
+}
+
+.prog-SubDate{
+    color: $grey-color-med;
+    padding-right: 20px;
+
+}
+
+.div2 { 
+    border-left: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.prog-Title {
+    font-weight: bold;
+    padding-left: 20px;
+    padding-bottom: 8px;
+    font-size: 18px;
+}
+
+.prog-Description{
+    padding-left: 20px;
+    color: $grey-color-med;
+}
+
+.prog-SubDesc {
+    font-size: 12px;
+    color: $grey-color-light;
 }

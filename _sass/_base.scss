@@ -35,7 +35,9 @@ $yellow: #C5BB3A;
 
 
 $grey-color-dark: #333;   /* footer */
+$grey-color-med: #948484; /* medium for dates */
 $grey-color-light: #ddd;  /* navigation bar border */
+
 $text-color:     #666;
 
 /* Set theme color *************************/
@@ -74,8 +76,7 @@ ul, ol, dl, figure,
 
 
 hr{
-    /* Inset, by Dan Eden */
-    width: 80%;
+    width: 60%;
     margin: auto;
     border: 0;
     height: 0;
