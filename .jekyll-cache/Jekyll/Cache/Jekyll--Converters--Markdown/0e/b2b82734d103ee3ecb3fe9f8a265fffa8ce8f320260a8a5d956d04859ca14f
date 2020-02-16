@@ -1,27 +1,41 @@
----
-layout: post
-title: Programme 2020
-description: This is another FULL Programme this year. Make sure you bring your camera with you as we have lots of workshops.
-date: 2019-11-15
-author: Graham Welsby
-img: /assets/img/12.jpg
-publish: true
----
+I"A<p>There are a lot of practical workshops this year. We have added more practical sessions this year so you can put into practice all the theory we have discussed over the last few years programmes. Make sure you bring your camera with you for all the sessions as some may have an opportunity to practice also.</p>
 
-There are a lot of practical workshops this year. We have added more practical sessions this year so you can put into practice all the theory we have discussed over the last few years programmes. Make sure you bring your camera with you for all the sessions as some may have an opportunity to practice also.
+<h4 id="count-down-to-our-next-meeting"><strong>Count Down To Our Next Meeting</strong></h4>
 
+<div class="col three">
 
-#### __Count Down To Our Next Meeting__
+	<br />
+	
+	<div class="clock" style="margin:2em;"></div>
 
+	<script type="text/javascript">
+		var clock;
 
-{% include meeting_countdown.html %}
+		$(document).ready(function() {
 
- 
-<br>
+			// Grab the current date
+			var currentDate = new Date();
 
-#### __Workshops / Focus Points__
+			// Set some date in the future. In this case, it's always Jan 1
+			var futureDate  = new Date(2020,1,25,17,0,0);
 
-<br>
+			// Calculate the difference in seconds between the future and current date
+			var diff = futureDate.getTime() / 1000 - currentDate.getTime() / 1000;
+
+			// Instantiate a coutdown FlipClock
+			clock = $('.clock').FlipClock(diff, {
+				clockFace: 'DailyCounter',
+				countdown: true
+			});
+		});
+	</script>	
+</div>
+
+<p><br /></p>
+
+<h4 id="workshops--focus-points"><strong>Workshops / Focus Points</strong></h4>
+
+<p><br /></p>
 
 <div class="parent-prog">
 	<div class="div1">
@@ -34,8 +48,6 @@ There are a lot of practical workshops this year. We have added more practical s
 	</div>
 </div>
 
-
-
 <div class="parent-prog">
 	<div class="div1">
 		<div class="prog-Date">24</div>
@@ -46,8 +58,6 @@ There are a lot of practical workshops this year. We have added more practical s
 		<div class="prog-Description">This is a special subject which may need special equipment. We may have a special guest to give us a few tips and tricks.</div>
 	</div>
 </div>
-
-
 
 <div class="parent-prog">
 	<div class="div1">
@@ -60,8 +70,6 @@ There are a lot of practical workshops this year. We have added more practical s
 	</div>
 </div>
 
-
-
 <div class="parent-prog">
 	<div class="div1">
 		<div class="prog-Date">27</div>
@@ -72,8 +80,6 @@ There are a lot of practical workshops this year. We have added more practical s
 		<div class="prog-Description">This is one of the first of the years workshops. Bring along your cameras so we can take loads of photos.</div>
 	</div>
 </div>
-
-
 
 <div class="parent-prog">
 	<div class="div1">
@@ -86,8 +92,6 @@ There are a lot of practical workshops this year. We have added more practical s
 	</div>
 </div>
 
-
-
 <div class="parent-prog">
 	<div class="div1">
 		<div class="prog-Date">29</div>
@@ -98,7 +102,6 @@ There are a lot of practical workshops this year. We have added more practical s
 		<div class="prog-Description">Another workshop this year, where we will be learning about depth of field, useful tips and tricks but more so practice.</div>
 	</div>
 </div>
-
 
 <div class="parent-prog">
 	<div class="div1">
@@ -111,8 +114,6 @@ There are a lot of practical workshops this year. We have added more practical s
 	</div>
 </div>
 
-
-
 <div class="parent-prog">
 	<div class="div1">
 		<div class="prog-Date">28</div>
@@ -124,8 +125,6 @@ There are a lot of practical workshops this year. We have added more practical s
 	</div>
 </div>
 
-
-
 <div class="parent-prog">
 	<div class="div1">
 		<div class="prog-Date">26</div>
@@ -136,8 +135,6 @@ There are a lot of practical workshops this year. We have added more practical s
 		<div class="prog-Description">We will be looking at all things on fire or bursting. This should be an exiting presentation.</div>
 	</div>
 </div>
-
-
 
 <div class="parent-prog">
 	<div class="div1">
@@ -191,50 +188,56 @@ __Fire, Flames &amp; Combustibles__ – We will be looking at all things on fire
 __Oil &amp; Water__ –  The last of the years workshops where we will be trying out the techniques that you can take home and try again.
 --->
 
-<br>
-<br>
+<p><br />
+<br /></p>
 
-#### CLUB COMPETITIONS...
+<h4 id="club-competitions">CLUB COMPETITIONS…</h4>
 
-<br>
+<p><br /></p>
 
-#### Quarterly Competition.
+<h4 id="quarterly-competition">Quarterly Competition.</h4>
 
 <p class="prog-SubDesc">(Crop to be no larger than A4)</p>
 
-* April - Macro / Close Ups
-* July - Beaches &amp; Sea Scapes
-* October - Feet, Hooves, Claws &amp; Paws
+<ul>
+  <li>April - Macro / Close Ups</li>
+  <li>July - Beaches &amp; Sea Scapes</li>
+  <li>October - Feet, Hooves, Claws &amp; Paws</li>
+</ul>
 
-<br>
+<p><br /></p>
 
-#### Monthly Competitions.
+<h4 id="monthly-competitions">Monthly Competitions.</h4>
 
 <p class="prog-SubDesc">(Crop to be no larger than 7x5)</p>
 
-* February - Winter
-* March - Working Hands
-* April - Wild &amp; Free (Animals - not pets or in captivity)
-* May - Showers
-* June - WWII
-* July - Wings
-* September - Hats
-* October - Urban
-* November - Motion
+<ul>
+  <li>February - Winter</li>
+  <li>March - Working Hands</li>
+  <li>April - Wild &amp; Free (Animals - not pets or in captivity)</li>
+  <li>May - Showers</li>
+  <li>June - WWII</li>
+  <li>July - Wings</li>
+  <li>September - Hats</li>
+  <li>October - Urban</li>
+  <li>November - Motion</li>
+</ul>
 
-<br>
+<p><br /></p>
 
-#### Lancaster Memorial.
-(Crop to be no larger than A4)
+<h4 id="lancaster-memorial">Lancaster Memorial.</h4>
+<p>(Crop to be no larger than A4)</p>
 
-* November - Candles
+<ul>
+  <li>November - Candles</li>
+</ul>
 
-<br>
+<p><br /></p>
 
-Any questions on anything regarding this year's programme, please click either of the following...
+<p>Any questions on anything regarding this year’s programme, please click either of the following…</p>
 
-<a href="mailto:grahamwelsby@gmail.com">Graham Welsby - Chairman</a>
-<br>
-<a href="mailto:john.horton4@btinternet.com">John Horton - Club Secretary</a>
+<p><a href="mailto:grahamwelsby@gmail.com">Graham Welsby - Chairman</a>
+<br />
+<a href="mailto:john.horton4@btinternet.com">John Horton - Club Secretary</a></p>
 
-
+:ET
