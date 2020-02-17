@@ -1,8 +1,9 @@
-I" <p>There are a lot of practical workshops this year. We have added more practical sessions this year so you can put into practice all the theory we have discussed over the last few years programmes. Make sure you bring your camera with you for all the sessions as some may have an opportunity to practice also.</p>
+I"\<p>There are a lot of practical workshops this year. We have added more practical sessions this year so you can put into practice all the theory we have discussed over the last few years programmes. Make sure you bring your camera with you for all the sessions as some may have an opportunity to practice also.</p>
 
 <h4 id="count-down-to-our-next-meeting"><strong>Count Down To Our Next Meeting</strong></h4>
 
-<div class="col three">
+<div class="col three clock-area">
+	<div class="post-meta">24th February 2020</div>
 
 	<br />
 	
@@ -17,7 +18,7 @@
 			var currentDate = new Date();
 
 			// Set some date in the future.
-			var futureDate  = new Date(2020,1,24,17,00);
+			var futureDate  = new Date(2020,1,24,19,00);
 
 			// Calculate the difference in seconds between the future and current date
 			var diff = futureDate.getTime() / 1000 - currentDate.getTime() / 1000;
