@@ -91,6 +91,11 @@ z-index: 1;
 .site-footer p{
 margin-bottom: 0px;
 }
+
+.footlink {
+color: $theme-color;
+text-decoration: none;
+    }
 /**
  * Pagination   **********************************************************
  */
@@ -103,10 +108,9 @@ bottom: 50px;
 }
 .paginationicon {
 font-size: 50px;
-a {
-color: $theme-color;
-    }
 }
+
+
 /**
  * Page content   **********************************************************
  */
