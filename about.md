@@ -29,15 +29,16 @@ If you are interested in joining, come along to any meeting or contact our Club 
 <br/>
 <hr/>
 <br/>
-<span class="contacticon center">
-	<a href="mailto:BroseleyPhotography@gmail.com"><i class="fa fa-envelope-square"></i></a>
-<!--<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
-	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a> -->
-	<a href="https://twitter.com/BroseleyPhoto" target="_blank"><i class="fa fa-twitter-square"></i></a>
-</span>
 
 <div class="col three caption">
-	If you are interested in joining, come along to any meeting or contact our Club Secretary John Horton for further details <a href="mailto:BroseleyPhotography@gmail.com">CLICK HERE TO EMAIL</a>
+	<p>If you are interested in joining, come along to any meeting or contact our Club Secretary John Horton for further details</p> 
+	<p><a href="mailto:BroseleyPhotography@gmail.com">CLICK HERE TO EMAIL</a></p>
 </div>
 
+<!-- <span class="contacticon center">
+	<a href="mailto:BroseleyPhotography@gmail.com"><i class="fa fa-envelope-square"></i></a>
+<a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://www.linkedin.com" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a> 
+	<a href="https://twitter.com/BroseleyPhoto" target="_blank"><i class="fa fa-twitter-square"></i></a>
+</span> -->

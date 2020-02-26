@@ -99,10 +99,6 @@ The winners were:-
 
 <br>
 
-<hr>
-
-<br>
-
 After the competitions we asked that alternative photographs to be brought and if time allows we shall discuss them. By alternative photographs we mean those images which you thought of entering into the months competition but decided not to for whatever reason.
 Should anyone have any extra photographs (including your disasters) that they would like to be assessed please bring it/them along. If we have time we’ll definitely appraise the image(s).
 
