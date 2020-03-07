@@ -9,7 +9,7 @@ published: true
 
 <div class="lightboxgallery-gallery">
 	<div class="img_row">
-		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/ChristneLittlewood/Christne_Img1.jpg" target="_blank" data-title="Ian Ralston - Insect 1" data-alt="Christne Littlewood">
+		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/ChristneLittlewood/Christne_Img1.jpg" target="_blank" data-title="Christne Littlewood - Insect 1" data-alt="Christne Littlewood">
 			<img  class="col one" src="{{ site.baseurl }}/assets/img/ChristneLittlewood/Christne_Img1.jpg" alt="Insect 1" title="Insect 1"/></a>
 
 		<a class="lightboxgallery-gallery-item" href="{{ site.baseurl }}/assets/img/ChristneLittlewood/Christne_Img2.jpg" target="_blank" data-title="Christne Littlewood - Insect 2" data-alt="Christne Littlewood">
