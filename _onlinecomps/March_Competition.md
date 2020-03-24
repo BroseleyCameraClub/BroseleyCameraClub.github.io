@@ -24,8 +24,8 @@ date: 2020-03-20 19:00:00
 </div>
 
 <div class="Comp_Img">
-	<div class="Number">3 - The Glass Cutter</div>
-	<div><img class="col three Comp_Img" src="{{ site.baseurl }}/assets/img/March_Competition/3 - The Glass Cutter.jpg"></div>
+	<div class="Number">3 - Hammer and Chisel</div>
+	<div><img class="col three Comp_Img" src="{{ site.baseurl }}/assets/img/March_Competition/3 - Hammer and Chisel.jpg"></div>
 </div>
 
 <div class="Comp_Img">
@@ -99,8 +99,8 @@ date: 2020-03-20 19:00:00
 </div>
 
 <div class="Comp_Img">
-	<div class="Number">18 - Hammer and Chisel</div>
-	<div><img class="col three Comp_Img" src="{{ site.baseurl }}/assets/img/March_Competition/18 - Hammer and Chisel.jpg"></div>
+	<div class="Number">18 - The Glass Cutter</div>
+	<div><img class="col three Comp_Img" src="{{ site.baseurl }}/assets/img/March_Competition/18 - The Glass Cutter.jpg"></div>
 </div>
 
 <div class="Comp_Img">
