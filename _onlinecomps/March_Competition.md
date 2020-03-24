@@ -5,7 +5,6 @@ description: Our first ever Online Competition.
 date: 2020-03-20 19:00:00
 ---
 
-<!-- <img class="col one right" src="/assets/img/prof_pic.jpg"> -->
 
 <p>This is our first 'Online Competitiion' that we have hosted. It's pretty simple. Please look through all of the images below please, and then place your vote <a target="_blank" href="https://surveyhero.com/c/db645d5f">HERE</a></p>
 
@@ -50,8 +49,8 @@ date: 2020-03-20 19:00:00
 </div>
 
 <div class="Comp_Img">
-	<div class="Number">8 - Hands</div>
-	<div><img class="col three Comp_Img" src="{{ site.baseurl }}/assets/img/March_Competition/8 - Hands.jpg"></div>
+	<div class="Number">8 - Now that's My Kind of work</div>
+	<div><img class="col three Comp_Img" src="{{ site.baseurl }}/assets/img/March_Competition/8 - Now that's My Kind of work.jpg"></div>
 </div>
 
 <div class="Comp_Img">
@@ -60,8 +59,8 @@ date: 2020-03-20 19:00:00
 </div>
 
 <div class="Comp_Img">
-	<div class="Number">10 - Hammer and Chisel</div>
-	<div><img class="col three Comp_Img" src="{{ site.baseurl }}/assets/img/March_Competition/10 - Hammer and Chisel.jpg"></div>
+	<div class="Number">10 - CSI Shropshire</div>
+	<div><img class="col three Comp_Img" src="{{ site.baseurl }}/assets/img/March_Competition/10 - CSI Shropshire.jpg"></div>
 </div>
 
 <div class="Comp_Img">
@@ -97,6 +96,21 @@ date: 2020-03-20 19:00:00
 <div class="Comp_Img">
 	<div class="Number">17 - Transplant</div>
 	<div><img class="col three Comp_Img" src="{{ site.baseurl }}/assets/img/March_Competition/17 - Transplant.jpg"></div>
+</div>
+
+<div class="Comp_Img">
+	<div class="Number">18 - Hammer and Chisel</div>
+	<div><img class="col three Comp_Img" src="{{ site.baseurl }}/assets/img/March_Competition/18 - Hammer and Chisel.jpg"></div>
+</div>
+
+<div class="Comp_Img">
+	<div class="Number">19 - Hands</div>
+	<div><img class="col three Comp_Img" src="{{ site.baseurl }}/assets/img/March_Competition/19 - Hands.jpg"></div>
+</div>
+
+<div class="Comp_Img">
+	<div class="Number">20 - Through the looking glass</div>
+	<div><img class="col three Comp_Img" src="{{ site.baseurl }}/assets/img/March_Competition/20 - Through the looking glass.jpg"></div>
 </div>
 
 
