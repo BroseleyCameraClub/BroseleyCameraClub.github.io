@@ -28,6 +28,9 @@ collections:
   featured:
     output: true
     permalink: /featured/:path/
+  onlinecomps:
+    output: true
+    permalink: /onlinecomps/:path/
 
 
 
