@@ -6,7 +6,9 @@ date: 2020-03-20 19:00:00
 ---
 
 
-<p>This is our first 'Online Competitiion' that we have hosted. It's pretty simple. Please look through all of the images below please, and then place your vote <a target="_blank" href="https://surveyhero.com/c/db645d5f">HERE</a></p>
+<p>This is our first 'Online Competitiion' that we have hosted. It's pretty simple. Please look through all of the images below please, and then place your vote <a target="_blank" href="https://surveyhero.com/c/884aefb8">HERE</a></p>
+
+## VOTING IS NOW CLOSED
 
 <p>Title for the competition is <strong>Working Hands</strong> but please remember that due to the movement restrictions we have opened this up to just <strong>HANDS</strong></p> 
 
@@ -114,8 +116,9 @@ date: 2020-03-20 19:00:00
 </div>
 
 
+## VOTING IS NOW CLOSED
 
-<p>If you have made your choice - please do not forget to vote <a target="_blank" href="https://surveyhero.com/c/db645d5f">HERE</a></p>
+<!-- <p>If you have made your choice - please do not forget to vote <a target="_blank" href="https://surveyhero.com/c/db645d5f">HERE</a></p> -->
 
 
 
