@@ -23,14 +23,23 @@ This is our _'April Online Competition'_. It's pretty simple. Please look throug
 
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/April_Competition/' %}
-    	{% assign imp_pat = image.path | remove_first: "/" %}
 <div class="Number">{{ image.basename }}</div>
-<div class="subName">{{ imp_pat | exif: 'user_comment' }}</div>
+
+    
+    {% for aprAuth in site.data.aprAuth %}
+      {% if image.basename == aprAuth.Img_Name %}
+<div class="subName">By - {{ aprAuth.Author }}</div>
+      {% endif %}
+    {% endfor %}
+
+
 <div>
-	<img class="col three Comp_Img" src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.basename }}">
+    <img class="col three Comp_Img" src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.basename }}">
 </div>
     {% endif %}
 {% endfor %}
+
+
 
 <br>
 <br>
@@ -50,13 +59,20 @@ This is our _'April Online Competition'_. It's pretty simple. Please look throug
 
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/April_Competition/' %}
-    	{% assign imp_pat = image.path | remove_first: "/" %}
-    <div class="grid__item" data-size="1280x1280">  
-        <a href="{{ site.baseurl }}{{ image.path }}" class="img-wrap" alt="{{ image.basename }}">
+        {% assign imp_pat = image.path | remove_first: "/" %}
+<div class="grid__item" data-size="1280x1280">  
+    <a href="{{ site.baseurl }}{{ image.path }}" class="img-wrap" alt="{{ image.basename }}">
         <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.basename }}" />
-		<div class="description description--grid">{{ image.basename }} - {{ imp_pat | exif: 'user_comment' }}</div>
-		</a>
-	</div>
+
+    {% for aprAuth in site.data.aprAuth %}
+        {% if image.basename == aprAuth.Img_Name %}
+<div class="description description--grid">{{ image.basename }} - {{ aprAuth.Author }}</div>
+        {% endif %}
+    {% endfor %}
+
+</a>
+</div>
+
     {% endif %}
 {% endfor %}
 	</div>

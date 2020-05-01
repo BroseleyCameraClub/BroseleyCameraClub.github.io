@@ -17,7 +17,7 @@ paginate_path: "/blog/page:num/"
 # Plugins
 plugins: 
 - jekyll-paginate
-- jekyll-exif-data
+# - jekyll-exif-data
 
 
 collections:
