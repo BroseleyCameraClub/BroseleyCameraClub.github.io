@@ -52,8 +52,8 @@ This is our _'April Online Competition'_. It's pretty simple. Please look throug
     {% if image.path contains 'assets/img/April_Competition/' %}
     	{% assign imp_pat = image.path | remove_first: "/" %}
     <div class="grid__item" data-size="1280x1280">  
-        <a href="{{ site.baseurl }}{{ image.path }}" class="img-wrap" alt="{{ image.name }}">
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.name }}" />
+        <a href="{{ site.baseurl }}{{ image.path }}" class="img-wrap" alt="{{ image.basename }}">
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.basename }}" />
 		<div class="description description--grid">{{ image.basename }} - {{ imp_pat | exif: 'user_comment' }}</div>
 		</a>
 	</div>
