@@ -7,11 +7,16 @@ date: 2020-04-04 19:00:00
 
 
 This is our _'April Online Competition'_. It's pretty simple. Please look through all of the images below please, and then place your VOTE HERE
-<!-- <a target="_blank" href="https://surveyhero.com/c/884aefb8">VOTE HERE</a> -->
+<!-- <a target="_blank" href="https://surveyhero.com/c/884aefb8">VOTE HERE</a> 
+-->
 
-<p>Title for the competition is <strong>Macro/Close-Ups</strong>. This is an open subject.</p> 
+<p id="top">Title for the competition is <strong>Macro/Close-Ups</strong>. This is an open subject.</p> 
 
-## VOTING IS NOW CLOSED
+If you want to go straight to the __new__ *table view* click <a href="#tableView">HERE</a>
+
+<br>
+
+## !! VOTING IS NOW CLOSED !!
 
 <br>
 <p><a href="{{ site.baseurl }}/Judging_Images/" target="_blank">Reminder on Judging Tips</a></p> 
@@ -44,13 +49,17 @@ This is our _'April Online Competition'_. It's pretty simple. Please look throug
 <br>
 <br>
 
-<hr>
+<hr id="tableView">
 
 <br>
 <br>
 
-#### HAVE A WALK ROUND THE TABLE - Click on an image to enlarge it.
+<div class="col three caption">
+    <h4>HAVE A WALK ROUND THE TABLE </h4>
+    <p>Click on an image to enlarge it.</p>    
+</div>
 
+<br>
 <br>
 
 <!-- MASONARY GRID -->
@@ -92,7 +101,13 @@ This is our _'April Online Competition'_. It's pretty simple. Please look throug
 <br>
 <br>
 
+<div class="col three caption">
+    Return to <a href="#top">TOP</a>
+</div>
+
 <hr>
+
+
 
 
 
