@@ -10,7 +10,7 @@ This is our _'April Online Competition'_. It's pretty simple. Please look throug
 <!-- <a target="_blank" href="https://surveyhero.com/c/884aefb8">VOTE HERE</a> 
 -->
 
-<p id="top">Title for the competition is <strong>Macro/Close-Ups</strong>. This is an open subject.</p> 
+<p>Title for the competition is <strong>Macro/Close-Ups</strong>. This is an open subject.</p> 
 
 If you want to go straight to the __new__ *table view* click <a href="#tableView">HERE</a>
 
