@@ -25,12 +25,12 @@ If you want to go straight to the __new__ *table view* click <a href="#tableView
 
 <br>
 
-
+<!-- This loops through all the images in specified folder -->
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/April_Competition/' %}
 <div class="Number">{{ image.basename }}</div>
 
-    
+<!-- This runs and checks if there is a matching author in the file -->
     {% for aprAuth in site.data.aprAuth %}
       {% if image.basename == aprAuth.Img_Name %}
 <div class="subName">By - {{ aprAuth.Author }}</div>
