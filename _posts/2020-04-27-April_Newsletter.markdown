@@ -2,7 +2,7 @@
 layout: post
 title:  april meeting news
 date: 2020-04-27 19:00:00
-description: news from our March 2020 Meeting.
+description: news from our April 2020 Meeting.
 ---
 
 With the Covid19 situation still running through the UK, we once again were forced to hold our usual proceedings online.
