@@ -35,7 +35,7 @@ The winners were:-
 <br>
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/assets/img/March_Competition/2 - Its a Snip.jpg">
+	<img class="col three" src="{{ site.baseurl }}/assets/img/March_Competition/02 - Its a Snip.jpg">
 </div>
 <div class="col three caption">
 	'It's a Snip by Joan Banks
@@ -43,7 +43,7 @@ The winners were:-
 
 <div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/assets/img/March_Competition/20 - Through the looking glass.jpg">
-	<img class="col one" src="{{ site.baseurl }}/assets/img/March_Competition/5 - Micrometer.jpg">
+	<img class="col one" src="{{ site.baseurl }}/assets/img/March_Competition/05 - Micrometer.jpg">
 </div>
 
 <div class="img_row_sm">
