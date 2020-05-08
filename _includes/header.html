@@ -2,10 +2,12 @@
 
   <div class="wrapper">
 
+    <div class="logo"><a class="invisibleLink" href="{{ site.baseurl }}/"></a></div>
+
     <nav class="site-nav">
 
       <div class="trigger">
-        <!-- {{ site.title }} instead of blog -->
+
         <a class="page-link" href="{{ site.baseurl }}/">Home</a>
 
         {% for page in site.pages %}
@@ -14,7 +16,14 @@
           {% endif %}
         {% endfor %}
 
+        <div class="burger">
+          <div class="line1"></div>
+          <div class="line2"></div>
+          <div class="line3"></div>
+        </div>
+
       </div>
+
     </nav>
 
   </div>

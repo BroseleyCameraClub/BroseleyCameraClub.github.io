@@ -24,6 +24,38 @@ text-decoration: none;
 color: $theme-color;
     }
 }
+// SITE HEADER LOGO STYLE - MODERNIZER BACKUP
+.logo{
+    float: left;
+    padding: 0.5em;
+    width: 115px;
+    text-indent: -9999px;
+    height: 45px;
+    background-repeat: no-repeat;
+}
+.logo img{
+    max-width: 115px;
+    max-height: 45px;
+}
+
+.webp .logo{
+  background-image: url("/assets/img/BCC-Logo.webp");
+  background-size: 110px 50px;
+  background-position: center;
+
+}
+.no-webp .logo{
+  background-image: url("/assets/img/BCC-Logo.png");
+  background-size: 110px 50px;
+  background-position: center;
+}
+.invisibleLink {
+    display: block;
+    position: absolute;
+    height: 45px; 
+    width: 115px;
+}
+
 .site-nav {
 float: right;
 line-height: $nav-height;
@@ -47,6 +79,31 @@ padding-bottom: 5px;
 display: line;
         }
     }
+// @include media-query($on-mobile){   
+// display: inline-block;
+// width: 20%;
+// margin-top: 56px;
+// /* align-items: center; */
+// margin-right: 0px;
+// margin-left: auto
+//     }
+}
+.burger{
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    padding: 1em;
+
+    display: none;
+}
+.burger div{
+    width: 25px;
+    height: 2px;
+    background-color: $grey-color-dark;
+    margin: 0.2em
+
 }
 
 .header-bar{
@@ -183,6 +240,8 @@ display: block;
 font-size: 42px;
 }
 
+
+
 /** Poem formatting ********************************************/
 .poem-title {
 font-size: 24px;
@@ -299,7 +358,7 @@ vertical-align: middle;
 font-size: $caption_font_size;
 }
 
-// Page Navigation - Small links at bottom of page.
+// Page Navigation - Small links at bottom of page. **********************************************************
 
 .PageNavigation {
   font-size: 10px;
@@ -320,7 +379,7 @@ font-size: $caption_font_size;
 }
 
 
-// Featured Project Slider!!
+// Featured Project Slider!! **********************************************************
 
 .featuredThumbnail{
 width: 100%;
@@ -358,7 +417,7 @@ text-align: center;
 display: block;
 }
 
-// Gallery Pages
+// Gallery Pages **********************************************************
 
 .lightboxgallery-gallery img{
 height: $img_height;
@@ -368,7 +427,7 @@ padding: $img_spacing;
 }
 
 
-// Programme Layouts
+// Programme Layouts **********************************************************
 
 .parent-prog {
 display: grid;
@@ -418,14 +477,14 @@ padding: 32px 0px 32px 0px;
 }
 
 
-// Clock
+// Clock **********************************************************
 
 .clock-area {
     margin-bottom: 1.5em;
 }
 
 
-// Online Competition Documentation //
+// Online Competition Grid View // **********************************************************
 
 .Comp_Img {
     padding-bottom: 80px;
@@ -442,6 +501,10 @@ padding: 32px 0px 32px 0px;
     font-style: italic;
     margin-left: 60px;
 
+}
+
+.comp_LongView{
+    margin-bottom: 20px;
 }
 
 .grid {

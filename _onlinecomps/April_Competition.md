@@ -25,6 +25,8 @@ If you want to go straight to the __new__ *table view* click <a href="#tableView
 
 <br>
 
+<div class="comp_LongView">
+
 <!-- This loops through all the images in specified folder -->
 {% for image in site.static_files %}
     {% if image.path contains 'assets/img/April_Competition/' %}
@@ -44,7 +46,7 @@ If you want to go straight to the __new__ *table view* click <a href="#tableView
     {% endif %}
 {% endfor %}
 
-
+</div>
 
 <br>
 <br>
