@@ -99,13 +99,13 @@ margin-left: 10px;
     transition: all 0.3s ease
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1000px) {
     .nav-links{
         width: 80%;
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 780px) {
     body{
         overflow-x: hidden;
     }
