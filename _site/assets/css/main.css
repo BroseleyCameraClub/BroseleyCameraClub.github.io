@@ -30,7 +30,7 @@ ul, ol { margin-left: 50px; }
 li > ul, li > ol { margin-bottom: 0; }
 
 /** Headings */
-h1, h2, h3, h4, h5, h6 { font-weight: 100; }
+h1, h2, h3, h4, h5, h6 { font-weight: 100; line-height: 1; }
 
 /** Links */
 a { color: #666; text-decoration: none; /* &:visited { color: darken($brand-color, 15%);  } */ }
@@ -75,29 +75,44 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .site-title:hover { text-decoration: none; color: #C5BB3A; }
 
-.logo { float: left; padding: 0.5em; width: 115px; text-indent: -9999px; height: 45px; background-repeat: no-repeat; }
-
-.logo img { max-width: 115px; max-height: 45px; }
-
-.webp .logo { background-image: url("/assets/img/BCC-Logo.webp"); background-size: 110px 50px; background-position: center; }
-
-.no-webp .logo { background-image: url("/assets/img/BCC-Logo.png"); background-size: 110px 50px; background-position: center; }
-
-.invisibleLink { display: block; position: absolute; height: 45px; width: 115px; }
-
-.site-nav { float: right; line-height: 56px; }
+.site-nav { display: flex; justify-content: space-around; align-items: center; flex-direction: row; line-height: 56px; max-height: 56px; }
 
 .site-nav .page-link { line-height: 1.5em; }
 
 .site-nav .page-link:not(:first-child) { margin-left: 10px; }
 
-@media screen and (max-width: 600px) { .site-nav { position: fixed; top: 0px; right: 10px; text-align: right; }
-  .site-nav:hover .trigger { display: block; padding-bottom: 5px; }
-  .site-nav .page-link { display: line; } }
+.logo { width: 40%; text-indent: -9999px; height: 56px; background-repeat: no-repeat; justify-self: left; }
 
-.burger { float: right; display: flex; justify-content: center; align-content: center; flex-direction: column; padding: 1em; display: none; }
+.logo img { max-width: 115px; max-height: 45px; }
 
-.burger div { width: 25px; height: 2px; background-color: #333; margin: 0.2em; }
+.webp .logo { background-image: url("/assets/img/BCC-Logo.webp"); background-size: 110px 50px; background-position: left; margin-left: 0.5em; }
+
+.no-webp .logo { background-image: url("/assets/img/BCC-Logo.png"); background-size: 110px 50px; background-position: left; margin-left: 0.5em; }
+
+.invisibleLink { display: block; position: inherit; height: 56px; width: 115px; margin-right: auto; }
+
+.nav-links { display: flex; justify-content: space-around; margin-bottom: 0px; width: 50%; }
+
+.nav-links li { list-style: none; }
+
+.burger div { width: 25px; height: 3px; background-color: #333; margin: 5px; display: none; transition: all 0.3s ease; }
+
+@media screen and (max-width: 768px) { .nav-links { width: 80%; } }
+
+@media screen and (max-width: 600px) { body { overflow-x: hidden; }
+  .nav-links { position: absolute; right: 0px; top: 56px; height: 87vh; width: 100%; background-color: #333; display: flex; flex-direction: column; justify-content: space-evenly; align-items: center; transform: translateX(100%); transition: transform 0.5s ease-in; }
+  .nav-links li { font-size: 1.5rem; font-weight: bold; }
+  .nav-links a { color: white; }
+  .nav-links a:hover { color: #aca655; }
+  .burger div { display: block; cursor: pointer; } }
+
+.nav-active { transform: translateX(0%); }
+
+.toggle .line1 { transform: rotate(-45deg) translate(-5px, 6px); }
+
+.toggle .line2 { opacity: 0; }
+
+.toggle .line3 { transform: rotate(45deg) translate(-5px, -6px); }
 
 .header-bar { left: 0px; top: 0px; position: relative; font-size: 20px; display: block; opacity: 0.75; width: 100%; text-align: center; padding-top: 25px; line-height: 3em; z-index: 25; }
 

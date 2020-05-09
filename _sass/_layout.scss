@@ -24,14 +24,31 @@ text-decoration: none;
 color: $theme-color;
     }
 }
+
+.site-nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    line-height: $nav-height;
+    max-height:  $nav-height;
+.page-link{
+line-height: $base-line-height;
+        // Gaps between nav items, but not on the first one
+&:not(:first-child) {
+margin-left: 10px;
+        }
+    }
+}
+
 // SITE HEADER LOGO STYLE - MODERNIZER BACKUP
 .logo{
-    float: left;
-    padding: 0.5em;
-    width: 115px;
+    // padding: 0.5em;
+    width: 40%;
     text-indent: -9999px;
-    height: 45px;
+    height: $nav-height;
     background-repeat: no-repeat;
+    justify-self: left; 
 }
 .logo img{
     max-width: 115px;
@@ -41,70 +58,104 @@ color: $theme-color;
 .webp .logo{
   background-image: url("/assets/img/BCC-Logo.webp");
   background-size: 110px 50px;
-  background-position: center;
-
+  background-position: left;
+  margin-left: 0.5em;
 }
 .no-webp .logo{
   background-image: url("/assets/img/BCC-Logo.png");
   background-size: 110px 50px;
-  background-position: center;
+  background-position: left;
+  margin-left: 0.5em;
 }
 .invisibleLink {
     display: block;
-    position: absolute;
-    height: 45px; 
+    position: inherit;
+    height: $nav-height; 
     width: 115px;
+    margin-right: auto;
 }
 
-.site-nav {
-float: right;
-line-height: $nav-height;
-.page-link{
-line-height: $base-line-height;
-        // Gaps between nav items, but not on the first one
-&:not(:first-child) {
-margin-left: 10px;
-        }
-    }
-@include media-query($on-palm) {
-position: fixed;
-top: 0px;
-right: 10px;
-text-align: right;
-&:hover .trigger {
-display: block;
-padding-bottom: 5px;
-        }
-.page-link {
-display: line;
-        }
-    }
-// @include media-query($on-mobile){   
-// display: inline-block;
-// width: 20%;
-// margin-top: 56px;
-// /* align-items: center; */
-// margin-right: 0px;
-// margin-left: auto
-//     }
-}
-.burger{
-    float: right;
+// NAVIGATION LINKS
+
+.nav-links{
     display: flex;
-    justify-content: center;
-    align-content: center;
-    flex-direction: column;
-    padding: 1em;
-
-    display: none;
+    justify-content: space-around;
+    margin-bottom: 0px;
+    width: 50%;
 }
+
+.nav-links li{
+    list-style: none;
+}
+
+// BURGER NAV
+
 .burger div{
     width: 25px;
-    height: 2px;
+    height: 3px;
     background-color: $grey-color-dark;
-    margin: 0.2em
-
+    margin: 5px;
+    display: none;
+    transition: all 0.3s ease
 }
+
+@media screen and (max-width: 768px) {
+    .nav-links{
+        width: 80%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    body{
+        overflow-x: hidden;
+    }
+    .nav-links{
+        position: absolute;
+        right: 0px;
+        top: 56px;
+        height: 87vh;
+        width: 100%;
+        background-color: $grey-color-dark;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+        transform: translateX(100%);
+        transition: transform 0.5s ease-in;
+
+    }
+    .nav-links li{
+        font-size: 1.5rem;
+        font-weight: bold;
+    }
+    .nav-links a{
+        color: white;
+    }
+    .nav-links a:hover{
+        color: #aca655;
+    }
+    .burger div{
+        display: block;
+        cursor: pointer;
+    }
+}
+
+.nav-active{
+    transform: translateX(0%);
+}
+
+.toggle .line1{
+    transform: rotate(-45deg) translate(-5px,6px);
+}
+
+.toggle .line2{
+    opacity: 0;
+}
+
+.toggle .line3{
+    transform: rotate(45deg) translate(-5px,-6px);
+}
+
 
 .header-bar{
     left: 0px;
@@ -358,7 +409,7 @@ vertical-align: middle;
 font-size: $caption_font_size;
 }
 
-// Page Navigation - Small links at bottom of page. **********************************************************
+// Footer Navigation - Small links at bottom of page. **********************************************************
 
 .PageNavigation {
   font-size: 10px;
