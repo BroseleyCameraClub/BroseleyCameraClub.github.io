@@ -1,7 +1,7 @@
 ---
 layout: page
 title: May Competition
-description: April's Online Competition.
+description: May's Online Competition.
 date: 2020-05-04 19:00:00
 ---
 
