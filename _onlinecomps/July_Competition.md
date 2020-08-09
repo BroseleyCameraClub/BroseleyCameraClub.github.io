@@ -13,9 +13,9 @@ This is our _'July Online Competition'_. It's pretty simple. Please look through
 
 If you want to go straight to the *table view* click <a href="#tableView">HERE</a>
 
-<!-- <br>
+<br>
 ## !! VOTING IS NOW CLOSED !!
-<br> -->
+<br>
 
 <p>Please do take a moment to have a read through our <a href="{{ site.baseurl }}/Judging_Images/" target="_blank">'Judging Tips'</a>, just to refresh what we should be looking for when judging our images.</p> 
 
