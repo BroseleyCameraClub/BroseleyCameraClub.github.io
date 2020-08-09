@@ -233,13 +233,13 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .parent-prog { display: grid; grid-template-columns: 1fr 7fr repeat(6, 0); grid-template-rows: repeat(1, 1fr); grid-column-gap: 0px; grid-row-gap: 0px; padding: 32px 0px 32px 0px; }
 
-.div1 { margin: auto; }
+.div1 { margin: auto; position: relative; }
 
 .prog-Date { font-size: 32px; font-weight: bold; padding-bottom: 10px; padding-right: 20px; }
 
 .prog-SubDate { color: #948484; padding-right: 20px; }
 
-.div2 { border-left: 1px solid rgba(0, 0, 0, 0.1); }
+.div2 { border-left: 1px solid rgba(0, 0, 0, 0.1); position: relative; }
 
 .prog-Title { font-weight: bold; padding-left: 20px; padding-bottom: 8px; font-size: 18px; }
 

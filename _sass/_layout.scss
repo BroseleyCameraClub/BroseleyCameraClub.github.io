@@ -489,9 +489,12 @@ grid-row-gap: 0px;
 padding: 32px 0px 32px 0px;
 }
 
+
 .div1 { 
     margin: auto;
+    position: relative;
 }
+
 
 .prog-Date{
     font-size: 32px;
@@ -508,6 +511,7 @@ padding: 32px 0px 32px 0px;
 
 .div2 { 
     border-left: 1px solid rgba(0, 0, 0, 0.1);
+    position: relative;
 }
 
 .prog-Title {
@@ -526,6 +530,8 @@ padding: 32px 0px 32px 0px;
     font-size: 12px;
     color: $grey-color-light;
 }
+
+
 
 
 // Clock **********************************************************
