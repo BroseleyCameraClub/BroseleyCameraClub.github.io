@@ -531,6 +531,24 @@ padding: 32px 0px 32px 0px;
     color: $grey-color-light;
 }
 
+.newBadge {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    padding: 20px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.3) 2px 3px 0px 0px;
+    transform: rotate(-20deg);
+    position: absolute;
+    left: -40px;
+    top: -40px;
+    z-index: -200;
+}
 
 
 
