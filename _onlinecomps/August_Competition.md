@@ -25,7 +25,7 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 <div class="Number">{{ image.basename }}</div>
 
 <!-- This runs and checks if there is a matching author in the file -->
-    {% for julyAuth in site.data.julyAuth %}
+    {% for augAuth in site.data.augAuth %}
       {% if image.basename == augAuth.Img_Name %}
 <div class="subName">By - {{ augAuth.Author }}</div>
       {% endif %}
