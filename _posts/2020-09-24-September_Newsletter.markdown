@@ -15,7 +15,7 @@ The months Focus Point was *'Panning'*. We have covered this subject a few times
 
 <br>
 
-The ‘Monthly Competition’ entitled *'Wings'* was held.
+The ‘Monthly Competition’ entitled *'Hats'* was held.
 
 The winners were:-
 
