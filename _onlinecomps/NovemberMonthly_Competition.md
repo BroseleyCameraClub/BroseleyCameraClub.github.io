@@ -13,9 +13,9 @@ This is our _'November Monthly Online Competition'_. It's pretty simple. Please 
 
 If you want to go straight to the *table view* click <a href="#tableView">HERE</a>
 
-<!-- <br>
+<br>
 ## !! VOTING IS NOW CLOSED !!
-<br> -->
+<br>
 
 <br>
 
