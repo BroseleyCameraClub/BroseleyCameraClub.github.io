@@ -14,7 +14,7 @@ This is our _'January Monthly Online Competition'_. It's pretty simple. Please l
 If you want to go straight to the *table view* click <a href="#tableView">HERE</a>
 
 <br>
-## !! VOTING IS NOW CLOSED !!
+<!-- ## !! VOTING IS NOW CLOSED !! -->
 <br>
 
 <br>
