@@ -2,7 +2,7 @@
 layout: post
 title:  november meeting news
 date: 2020-11-30 19:00:00
-description: news from our September 2020 Meeting.
+description: news from our November 2020 Meeting.
 ---
 
 The months Focus Point was *'Oil &amp; Water'*. The presentation we looked at covered the basics of how to get going. Covering some very basic equipment, and some basic to more extensive set ups.
