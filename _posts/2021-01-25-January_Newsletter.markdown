@@ -2,7 +2,7 @@
 layout: post
 title:  january meeting news
 date: 2021-01-25 19:00:00
-description: news from our January 2020 Meeting.
+description: news from our January 2021 Meeting.
 ---
 
 Our AGM was a little shorter than normal, with the Chairman's recap on the last year, including being one of a very small number of clubs that didn't stop for the pandemic and continued to offer content and help to all our members. We discussed membership numbers and costs for the 2021 season, and our financial situation and what we may need to do over the next few years to ensure the club and it's continuation.
