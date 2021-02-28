@@ -75,17 +75,6 @@ Should you have any questions have any questions regarding the club or meetings 
 
 <br>
 
-### NEXT MEETING
-<br>
-
-Our next meeting will be On-Line (Members will receive notification of the details nearer the time) 19:30 on Monday 25th May 2020. 
-
-The subject for our meeting is <strong>*'Focusing'*</strong>
-
-There will only be the Quarterly Competitions and is entitled...
-<ul>
-<li>Monthly - 'Showers &amp; Droplets'</li>
-</ul>
 
 
 You can view our current programme here - <a href="{{ site.baseurl }}/programme/2019-11-25-Forward-Programme-2020-2021">PROGRAMME 2020</a>
