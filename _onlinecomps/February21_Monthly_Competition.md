@@ -13,9 +13,9 @@ This is our _'February Monthly Online Competition'_. It's pretty simple. Please 
 
 If you want to go straight to the *table view* click <a href="#tableView">HERE</a>
 
-<br>
+<!-- <br>
 ## !! VOTING IS NOW CLOSED !!
-<br>
+<br> -->
 
 <br>
 
@@ -68,7 +68,7 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
     <a href="{{ site.baseurl }}{{ image.path }}" class="img-wrap" alt="{{ image.basename }}">
         <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.basename }}" />
 
-    {% for feb21Auth in site.data.feb21Auth %}
+    {% for feb21Auth in site.data.apr21Auth %}
         {% if image.basename == feb21Auth.Img_Name %}
 <div class="description description--grid">{{ image.basename }} - {{ feb21Auth.Author }}</div>
         {% endif %}
