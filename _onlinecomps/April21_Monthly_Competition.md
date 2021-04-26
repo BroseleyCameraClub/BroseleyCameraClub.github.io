@@ -13,9 +13,9 @@ This is our _'April Monthly Online Competition'_. It's pretty simple. Please loo
 
 If you want to go straight to the *table view* click <a href="#tableView">HERE</a>
 
-<!-- <br>
+<br>
 ## !! VOTING IS NOW CLOSED !!
-<br> -->
+<br>
 
 <br>
 
@@ -27,7 +27,7 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 <!-- This runs and checks if there is a matching author in the file -->
     {% for apr21Auth in site.data.apr21Auth %}
       {% if image.basename == apr21Auth.Img_Name %}
-<div class="subName">By - {{ ***21Auth.Author }}</div>
+<div class="subName">By - {{ apr21Auth.Author }}</div>
       {% endif %}
     {% endfor %}
 
@@ -70,7 +70,7 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 
     {% for apr21Auth in site.data.apr21Auth %}
         {% if image.basename == apr21Auth.Img_Name %}
-<div class="description description--grid">{{ image.basename }} - {{ ***21Auth.Author }}</div>
+<div class="description description--grid">{{ image.basename }} - {{ apr21Auth.Author }}</div>
         {% endif %}
     {% endfor %}
 
