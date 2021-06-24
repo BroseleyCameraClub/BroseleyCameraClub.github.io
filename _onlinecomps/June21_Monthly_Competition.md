@@ -6,7 +6,7 @@ date: 2021-06-20 19:00:00
 ---
 
 
-This is our _'June Monthly Online Competition'_. It's pretty simple. Please look through all of the images below please, and then place your vote <!-- - <a target="_blank" href="https://surveyhero.com/c/7e25e690">VOTE HERE</a>  -->
+This is our _'June Monthly Online Competition'_. It's pretty simple. Please look through all of the images below please, and then place your vote - <a target="_blank" href="https://surveyhero.com/c/388cb8d8">VOTE HERE</a> 
 
 
 <p>Title for the competition is <strong>Down By The River</strong>. </p> 
