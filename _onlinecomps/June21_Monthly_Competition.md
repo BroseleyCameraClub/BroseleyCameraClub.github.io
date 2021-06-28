@@ -25,7 +25,7 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 <div class="Number">{{ image.basename }}</div>
 
 <!-- This runs and checks if there is a matching author in the file -->
-    {% for may21Auth in site.data.june21Auth %}
+    {% for june21Auth in site.data.june21Auth %}
       {% if image.basename == june21Auth.Img_Name %}
 <div class="subName">By - {{ june21Auth.Author }}</div>
       {% endif %}
@@ -68,7 +68,7 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
     <a href="{{ site.baseurl }}{{ image.path }}" class="img-wrap" alt="{{ image.basename }}">
         <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.basename }}" />
 
-    {% for may21Auth in site.data.june21Auth %}
+    {% for june21Auth in site.data.june21Auth %}
         {% if image.basename == june21Auth.Img_Name %}
 <div class="description description--grid">{{ image.basename }} - {{ june21Auth.Author }}</div>
         {% endif %}
