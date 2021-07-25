@@ -1,4 +1,4 @@
-n  ---
+---
 layout: page
 title: July Monthly Competition
 description: July's Monthly Online Competition.
