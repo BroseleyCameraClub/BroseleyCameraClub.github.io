@@ -27,7 +27,7 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 <!-- This runs and checks if there is a matching author in the file -->
     {% for jjul21MonAuth in site.data.jjul21MonAuth %}
       {% if image.basename == jul21MonAuth.Img_Name %}
-<div class="subName">By - {{ jul21MonAuth****.Author }}</div>
+<div class="subName">By - {{ jul21MonAuth.Author }}</div>
       {% endif %}
     {% endfor %}
 
@@ -70,7 +70,7 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 
     {% for jul21MonAuth in site.data.jul21MonAuth %}
         {% if image.basename == jul21MonAuth.Img_Name %}
-<div class="description description--grid">{{ image.basename }} - {{ jul21MonAuth***.Author }}</div>
+<div class="description description--grid">{{ image.basename }} - {{ jul21MonAuth.Author }}</div>
         {% endif %}
     {% endfor %}
 

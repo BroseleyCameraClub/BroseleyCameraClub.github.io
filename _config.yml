@@ -7,9 +7,6 @@ description: We are a friendly bunch of amateur photography enthusiasts, meeting
 baseurl:
 url: 
   
-// Not used anymore
-enforce_ssl: broseleycameraclub.github.io
-
 # Build settings
 markdown: kramdown
 highlighter: rouge
