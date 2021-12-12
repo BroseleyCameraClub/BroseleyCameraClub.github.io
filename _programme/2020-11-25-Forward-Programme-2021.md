@@ -144,6 +144,9 @@ Hopefully we are seeing the end of the pandemic and will be able to resume face 
 
 <div class="parent-prog">
 	<div class="div1">
+
+		<span class="newBadge">AMEND</span>
+
 		<div class="prog-Date">25</div>
 		<div class="prog-SubDate">Oct</div>
 	</div>
