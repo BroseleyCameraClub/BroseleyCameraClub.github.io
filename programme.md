@@ -15,7 +15,7 @@ permalink: /programme/
 </div>
 
 <ul class="post-list">
-    {% for programme in site.programme reversed limit:5 %}
+    {% for programme in site.programme reversed limit:6 %}
       <li>
         <h2><a class="programme-title" href="{{ programme.url | prepend: site.baseurl }}">{{ programme.title }}</a></h2>
         <p class="programme-meta">{{ programme.date | date: "%-d %B, %Y" }}</p>

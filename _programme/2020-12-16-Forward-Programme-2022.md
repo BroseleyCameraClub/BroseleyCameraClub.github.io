@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Programme 2022
-description: New and ready programme for 2022 season.
+description: New and exciting programme for the 2022 season. Focusing on Composition this year, with the usual technical tips and some project ideas for you to complete at home.
 date: 2020-12-16
 author: Graham Welsby
 img: /assets/img/12.jpg
-published: false
+published: true
 ---
 
 Hopefully we are seeing the end of the pandemic and will be able to resume face to face meetings soon. Until then we will continue to meet on Zoom, and when normal meetings resume, we will adapt the below schedule with workshops galore.
