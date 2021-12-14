@@ -10,12 +10,6 @@ published: true
 
 Hopefully we are seeing the end of the pandemic and will be able to resume face to face meetings soon. Until then we will continue to meet on Zoom, and when normal meetings resume, we will adapt the below schedule with workshops galore.
 
-
-#### __Count Down To Our Next Meeting__
-
-
-{% include meeting_countdown.html %}
-
  
 <br>
 
