@@ -1,18 +1,31 @@
-- Transportation
-- 3 of a kind
-- Dark & Light
-- All things Watery
-- In search of
+
+Anything we need to add on the website?
+	Covid Update statement?
+	Reading Time?
+https://github.com/bdesham/reading_time
+  {% capture time %}{{ content | reading_time }}{% endcapture %}
+  <p>This article will take {{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %} to read.</p>
+
+
+
+Programme.
 
 https://www.digitalphotomentor.com/intermediate-photography/page/6/
 
 Photography Myths Debunked
 https://www.digitalphotomentor.com/8-photography-myths-debunked/
 
-tips for better black and white images
-https://www.digitalphotomentor.com/3-tips-creating-better-black-and-white-photos/
 
-Tips for improving your sping photography
+MERGE
+Tips for better black and white images
+https://www.digitalphotomentor.com/3-tips-creating-better-black-and-white-photos/
+Tips for Using Shadows to Create Dramatic Images
+https://www.digitalphotomentor.com/5-tips-for-using-shadows-to-create-dramatic-images/
+https://ayearwithmycamera.com/blog/inspirational-black-and-white-photographers
+
+
+
+Tips for improving your spring photography
 https://www.digitalphotomentor.com/7-tips-improving-spring-photography/
 
 Tips for Creating Depth and Dimension in Your Images
@@ -21,11 +34,14 @@ https://www.digitalphotomentor.com/4-tips-creating-depth-dimension/
 How to Improve Your Composition by Adding a Focal Point
 https://www.digitalphotomentor.com/how-to-add-a-focal-point-to-make-your-photographs-more-interesting/
 
-Tips for Using Shadows to Create Dramatic Images
-https://www.digitalphotomentor.com/5-tips-for-using-shadows-to-create-dramatic-images/
-
 How to Build Stronger Compositions Using Shapes
 https://www.digitalphotomentor.com/how-to-build-stronger-compositions-using-shape/
+
+5 Photography Ideas for When There’s Nothing Interesting to Shoot
+https://www.digitalphotomentor.com/5-photography-ideas-for-when-theres-nothing-interesting-to-shoot/
+
+Create Strong Photographic Composition Using Framing
+https://www.digitalphotomentor.com/create-strong-photographic-composition-using-framing/
 
 
 rule of thirds
@@ -43,6 +59,15 @@ Getting serious with metering systems – Matrix/Evaluative, Partial and Spot
 
 
 
+Competition
+
+- Transportation
+- 3 of a kind
+- Dark & Light
+- All things Watery
+- In search of
+
+
 1) A walk in the woods
 2) Sport - try to get some movement into an image
 3) The Urban Experience (life and/or environment)
@@ -52,9 +77,33 @@ Getting serious with metering systems – Matrix/Evaluative, Partial and Spot
 7) Still Life
 8) Wildlife
 9) Streams and Brooks
-10) Mightier than the sword (define that as you will)
+10) Mightier than the Sword (define that as you will)
 11) Coast
 12) Public Transport
 13) Re-enactment/Re-enactors
 14) National Trust/English Heritage
 15) Market Day
+
+
+Mounting/framing your prints (or is this too old-hat?). Using on-line video.
+
+Taking photographs of things in Birchmeadow Centre i.e. using your imagination for ordinary or obscure subjects, even in the kitchen & toilets.
+
+Sunsets, using whatever aids you have - filters, tripods etc, prob outside in the early summer.
+
+Oil and Water.  We would set up trays, dishes etc with water and coloured oils and just let everyone loose - within reason of course.
+
+Competition Subjects.
+Happiness - what makes you happy
+
+Footwear - being worn, not on display
+
+Dressing up - keep this fairly open
+
+Celebrations
+
+Playtime - young and old, not pets
+
+Comedy - capturing/looking  - it makes you laugh when you look at it
+
+Smoke
