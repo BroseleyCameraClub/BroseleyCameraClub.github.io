@@ -3,10 +3,12 @@ layout: default
 ---
 <div class="post">
 
+{%- include reading_time.html content=page.content -%}
+
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">{{ page.date | date: "%d %B, %Y" }}{% if page.author %} | {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+    <p class="post-meta">{{ page.date | date: "%d %B, %Y" }}{% if page.author %} | {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}&MediumSpace; &MediumSpace; &MediumSpace; | &MediumSpace; &MediumSpace; &MediumSpace;Estimated Reading Time:  {{ reading_time }}</p>
+  </header> 
 
   <article class="post-content">
     {{ content }}
