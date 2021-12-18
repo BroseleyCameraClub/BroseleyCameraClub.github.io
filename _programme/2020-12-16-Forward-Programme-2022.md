@@ -30,7 +30,7 @@ Hopefully we are seeing the end of the pandemic and will be able to resume face 
 	</div>
 	<div class="div2">
 		<div class="prog-Title">Photograpy Myths Debunked</div>
-		<div class="prog-Description">A discussion on some of the things we hear quite often, and why you shouldn't listen to them.</div>
+		<div class="prog-Description">A discussion on some of the things we hear quite often, why the might be holding you back and why you shouldn't listen to them.</div>
 	</div>
 </div>
 
