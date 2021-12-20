@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: programme
 title: Programme 2022
 description: New and exciting programme for the 2022 season. Focusing on Composition this year, with the usual technical tips and some project ideas for you to complete at home.
 date: 2020-12-16
