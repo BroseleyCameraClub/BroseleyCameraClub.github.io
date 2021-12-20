@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: programme
 title: Ironbridge WWII Weekend
 description: Images from the May Bank Holiday in Ironbridge
 date: 2019-06-30 19:30:00

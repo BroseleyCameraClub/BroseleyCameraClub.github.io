@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gallery
-description: This is a gallery from the Broseley Camera Club Members.
+description: This is a gallery of images from the Broseley Camera Club Members.
 menu: main
 description:
 permalink: /gallery/

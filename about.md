@@ -6,20 +6,24 @@ menu: main
 permalink: /about/
 ---
 
-<img class="col one right" src="/assets/img/prof_pic.jpg">
+<img class="col one right" src="/assets/img/CameraImage - bailey-mahon.jpg">
 
 <br/>
-Broseley Camera Club is a small informal group of like-minded people who meet once a month to discuss and display their photographs and share experiences. 
+**Broseley Camera Club** is a small informal group of like-minded people who meet once a month to discuss and display their photographs and share experiences. 
 
 The club offers a warm welcome to photographers of all abilities, from complete beginners to the experienced, it offers something for everyone. The ‘focus’ of the club is to help members improve and enjoy all aspects of photography with advice freely offered.
 
-Monthly sessions are made up of Workshops and Focus points. These consist of presentations of varied subjects and techniques from the world of photography, and workshops for you to try get out your camera and have an opportunity to try out new things and ask questions. Competitions are held monthly and quarterly, judged by other attending members. The aim of the competitions is to encourage members to *‘go out and shoot’*, keeping fresh the discussed presentations and newly acquired skills
+**Monthly Meetings** are made up of Workshops and Focus points. These consist of presentations of varied subjects and techniques from the world of photography, and workshops for you to try get out your camera and have an opportunity to try out new things and ask questions. Competitions are held monthly and quarterly, judged by other attending members. The aim of the competitions is to encourage members to *‘go out and shoot’*, keeping fresh the discussed presentations and newly acquired skills
   
 The Club usually meets on the last Monday of each month, at 7:30pm in Birchmeadow Centre, Birchmeadow Road, Broseley. 
 
-Please click <a href="{{ site.url }}/programme/">HERE</a> to see what we are doing this year.
+Want to know what we are doing this years - click below to read through our the latest activities - 
+{% assign sorted = site.programme | sort: 'date' | reverse  %} 
+{% for programme in sorted limit:1 %}
+<a href="{{ programme.url | prepend: site.baseurl }}">**{{ programme.title}}**</a>
+{% endfor %}
 
-We have a £15 per year membership fee. Guests are also welcome to try out prior to becoming a member, these are charged at £2 for the first evening, £13 Membership Fee the following meeting. There is a small 50 pence charge per club evening to cover costs of Coffee/Tea. 
+**Membership Fees** are currently only £15 per year. Guests are also welcome to try out prior to becoming a member, these are charged at £2 for the first evening, £13 Membership Fee the following meeting. There is a small 50 pence charge per club evening to cover costs of Coffee/Tea. 
 
 As a member, you receive regular emails including meeting reminders and monthly newsletters with details from the last meeting, these also include links to download the latest presentations.
  

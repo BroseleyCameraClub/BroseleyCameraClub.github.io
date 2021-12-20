@@ -3,10 +3,9 @@ layout: default
 description: We are a friendly bunch of amateur photography enthusiasts, meeting once a month in Broseley, Shropshire to discuss a range of practical tips and helpful advice. Members of all skill levels, from beginner to very experienced are all welcome.
 ---
 
-<div class="header-bar">
+<!-- <div class="header-bar">
   <div class="img_row"><img src="{{site.baseurl}}/assets/img/BCC-Logo.png"></div>
-
-</div>
+</div> -->
 
 <h1 class="animated pulse">Welcome to Broseley Camera Club's Website</h1>
 
@@ -16,11 +15,16 @@ description: We are a friendly bunch of amateur photography enthusiasts, meeting
 
 <br/> <br/>
 
-    We have workshops and presentations that suit all abilities, from beginners to advanced, phone camera to DSLR. There really is something for everyone. Please read through our <a href="{{ site.url}}/about/">'About Page'</a> for more about our club.
+    We have workshops and presentations that suit all abilities, from beginners to advanced, phone to DSLR. There really is something for everyone. Please read through our <a href="{{ site.url}}/about/">'About Page'</a> for more about our club.
 
 <br/> <br/>
 
-    Please feel free to browse through our <strong><a href="{{ site.url }}/gallery/">Galleries</a></strong> and <strong><a href="{{ site.url }}/news/">Snippets</a></strong> from our members newsletters. Take a look at what we are up to this year in our <strong><a href="{{ site.url }}/programme/">Programme</a></strong> and/or contact us to find out more.
+    Please feel free to browse through our <strong><a href="{{ site.url }}/gallery/">Galleries</a></strong> and <strong><a href="{{ site.url }}/news/">Snippets</a></strong> from our members newsletters. Take a look at what we are up to this year in our <strong>
+      {% assign sorted = site.programme | sort: 'date' | reverse  %} 
+      {% for programme in sorted limit:1 %}
+          <a href="{{ programme.url | prepend: site.baseurl }}">Current Programme</a>
+      {% endfor %}
+    </strong> and/or please contact us to find out more.
 
 <br/> <br/>
 
@@ -30,15 +34,17 @@ description: We are a friendly bunch of amateur photography enthusiasts, meeting
 
 <hr>
 
-<br/> 
-<br/>
+<br/> <br/>
 
 {% include latestNewsSnippet.html %}
 
-<br/> 
-<br/>
-<br/> 
-<br/>
+&nbsp;
+
+<br/> <br/>
+
+<hr>
+
+<br/> <br/>
 
 {% include featuredGallery.html %}
 

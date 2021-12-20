@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: programme
 title: Chester Zoo Visit
 description: Images from our Chester Zoo Trip
 date: 2018-07-20 19:00:00

@@ -1,8 +1,21 @@
 <footer class="site-footer">
 
   <div class="wrapper">
-    <p>Additional Links: &nbsp;&nbsp;<a class="footlink" href="{{ site.baseurl }}/comp_rules/">Competition Rules</a> &nbsp; |  &nbsp; <a class="footlink" href="{{ site.baseurl }}/Judging_Images/">Tips on Judging Images</a></p>
-    <p>All images on this site are copyright to the photographer and owner. All rights reserved to Broseley Camera Club &#169; 2018</p>
+    <p>Additional Links: 
+      &nbsp;&nbsp;
+        <a class="footlink" href="{{ site.baseurl }}/comp_rules/">Competition Rules</a> 
+      &nbsp; |  &nbsp; 
+        <a class="footlink" href="{{ site.baseurl }}/Judging_Images/">Tips on Judging Images</a> 
+      &nbsp; |  &nbsp;
+
+      {% assign sorted = site.programme | sort: 'date' | reverse  %} 
+      {% for programme in sorted limit:1 %}
+          <a class="footlink" href="{{ programme.url | prepend: site.baseurl }}">{{ programme.title }}</a>
+      {% endfor %}
+
+    </p>
+
+    <p>All images on this site are copyright &#169; to the photographer and owner. All rights reserved to Broseley Camera Club &#169; from 2018</p>
   </div>
   
 <!-- Lightbox Scripts -->
@@ -14,7 +27,6 @@
 
 
 <!-- Masonary Grid for Online Comps -->
-
   <script src="{{ site.baseurl }}/assets/js/imagesloaded.pkgd.min.js"></script>
   <script src="{{ site.baseurl }}/assets/js/masonry.pkgd.min.js"></script>
   <script src="{{ site.baseurl }}/assets/js/classie.js"></script>
@@ -28,3 +40,4 @@
   
 
 </footer>
+

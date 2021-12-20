@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: programme
 title: Black &amp; White
 description: Images from our Black &amp; White Exhibition
 date: 2018-07-20 19:00:00

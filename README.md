@@ -15,6 +15,6 @@ News features are from all the latest meetings.
 This is a selection of Portfolio type galleries. As well as special features such as Exhibitions, Member Galleries, and Competitions.
 > All copyrights are with the photographers, and only a selection of images all with the members permissions.
 
-### News
+### Programme.
 Programme - Past and present. The programme page lists programmes from the past several years, as well as the current year.
 > These are free fro anyone to look at to see if the meetings are of interest.

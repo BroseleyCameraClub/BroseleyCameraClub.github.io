@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: programme
 title: Shrewsbury Visit
 description: Images from our Shrewsbury Trip
 date: 2018-07-30 19:30:00
