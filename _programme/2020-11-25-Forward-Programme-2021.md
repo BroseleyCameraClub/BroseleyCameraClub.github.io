@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: programme
 title: Programme 2021
 description: Hopefully we are seeing the end of the pandemic and will be able to resume face to face meetings soon.
 date: 2020-11-15
