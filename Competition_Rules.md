@@ -10,7 +10,7 @@ permalink: /comp_rules/
 <br/>
 The competitions are held to encourage members to 'get out and about'. Submissions, therefore, should preferably be recent, although not mandatory.
 
-A floating cup will be awarded annually to the person gaining the most points in the period of the season (Usually September - July) at the Clubs AGM meeting.
+A floating cup will be awarded annually to the person gaining the most points in the period of the season (January to November) at the Clubs AGM meeting in January.
 
 <br>
 
@@ -85,7 +85,7 @@ These rules apply to both the Monthly and Quarterly Competitions.
  
 
   
-If you have any questions on the above, please email <a href="mailto:grahamwelsby@gmail.com">Graham Welsby</a> (grahamwelsby@gmail.com)
+If you have any questions on the above, please email <a href="mailto:grahamwelsby@gmail.com">Graham Welsby</a>
 
 
 <br/>
@@ -100,6 +100,6 @@ If you have any questions on the above, please email <a href="mailto:grahamwelsb
 </span>
 
 <div class="col three caption">
-	If you are interested in joining, come along to any meeting or contact John Horton for further details john.horton4@btinternet.com
+	If you are interested in joining, come along to any meeting or contact <a href="mailto:john.horton4@btinternet.com">John Horton - Club Secretary</a> for further details.
 </div>
 

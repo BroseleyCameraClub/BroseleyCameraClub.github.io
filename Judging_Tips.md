@@ -45,7 +45,7 @@ And finally – Enjoy your photography, as for judges there are good ones and no
  
 
   
-If you have any questions on the above, please email <a href="mailto:grahamwelsby@gmail.com">Graham Welsby</a> (grahamwelsby@gmail.com)
+If you have any questions on the above, please email <a href="mailto:grahamwelsby@gmail.com">Graham Welsby</a>
 
 
 <br/>
@@ -60,6 +60,6 @@ If you have any questions on the above, please email <a href="mailto:grahamwelsb
 </span>
 
 <div class="col three caption">
-	If you are interested in joining, come along to any meeting or contact John Horton for further details john.horton4@btinternet.com
+	If you are interested in joining, come along to any meeting or contact <a href="mailto:john.horton4@btinternet.com">John Horton - Club Secretary</a> for further details.
 </div>
 
