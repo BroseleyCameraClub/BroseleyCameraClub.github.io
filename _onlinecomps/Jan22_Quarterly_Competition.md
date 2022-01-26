@@ -11,7 +11,7 @@ This is our _'January's Quarterly - Online Competition'_. It's pretty simple. Pl
 
 <p>Title for the competition is <strong>Smoke</strong>. </p> 
 
-If you want to go straight to the *table view* click <a href="#tableView">HERE</a>
+if you want to go straight to the *table view* click  <a href="#tableView">HERE</a>
 
 <!-- <br>
 ## !! VOTING IS NOW CLOSED !!
