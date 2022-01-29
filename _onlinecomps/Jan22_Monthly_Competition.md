@@ -6,16 +6,16 @@ date: 2022-01-25 19:00:00
 ---
 
 
-This is our _'January's Monthly - Online Competition'_. It's pretty simple. Please look through all of the images below please, and then place your vote - <a target="_blank" href="https://surveyhero.com/c/9pxvnsfc">VOTE HERE</a> 
+This is our _'January's Monthly - Online Competition'_. It's pretty simple. <!-- Please look through all of the images below please, and then place your vote - <a target="_blank" href="https://surveyhero.com/c/9pxvnsfc">VOTE HERE</a>  -->
 
 
 <p>Title for the competition is <strong>Still Life</strong>. </p> 
 
 If you want to go straight to the *table view* click <a href="#tableView">HERE</a>
 
-<!-- <br>
+<br>
 ## !! VOTING IS NOW CLOSED !!
-<br> -->
+<br>
 
 <br>
 
@@ -27,7 +27,7 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 <!-- This runs and checks if there is a matching author in the file -->
     {% for jan22MonAuth in site.data.jan22MonAuth %}
       {% if image.basename == jan22MonAuth.Img_Name %}
-<div class="subName">By - {{ AAjan22MonAuth.Author }}</div>
+<div class="subName">By - {{ jan22MonAuth.Author }}</div>
       {% endif %}
     {% endfor %}
 
@@ -70,7 +70,7 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 
     {% for jan22MonAuth in site.data.jan22MonAuth %}
         {% if image.basename == jan22MonAuth.Img_Name %}
-<div class="description description--grid">{{ image.basename }} - {{ AAjan22MonAuth.Author }}</div>
+<div class="description description--grid">{{ image.basename }} - {{ jan22MonAuth.Author }}</div>
         {% endif %}
     {% endfor %}
 
