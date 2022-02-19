@@ -12,7 +12,7 @@ We welcomed some new members, we hope they enjoyed the evening, and we look forw
 
 Regarding competitions; the winners from last years season were announced.
 
-Monthly Competition 2021 Results
+Monthly Competition 2021 Results.
 <ul>
     <li>1st - Joan Banks</li>
     <li>2nd - John Horton</li>
@@ -28,7 +28,7 @@ Quarterly Competition 2021 Results
 
 Congratulations to our winners! Due to Covid we are unable to present the cups, or pass them to the winners...
 
-We mmoved onto our Focus Point of the evening, where we discussed 8 Photography Myths - hopefully these 8 myths are now debunked, and you don't feel you have to live up to some of these rules.
+We moved onto our Focus Point of the evening, where we discussed 8 Photography Myths - hopefully these 8 myths are now debunked, and you don't feel you have to live up to some of these rules.
 
 Full details of this will be in the members newsletter.
 *Members receive a copy of the presentation in the club newsletter.*
