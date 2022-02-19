@@ -6,7 +6,7 @@ description: news from our January 2022 Meeting.
 ---
 
 Welcoming the new season with the AGM. Taking a look back on the previous season, walking through some of the issues, the finances and the plan for this year.
-What do we expect to be seeing in teh new season, a run down into the Focus points in brief. It's looking to be an exciting season.
+What do we expect to be seeing in the new season, a run down into the Focus points in brief. It's looking to be an exciting season.
 
 We welcomed some new members, we hope they enjoyed the evening, and we look forward to helping you achieve your goals with photography and can't wait to see what you produce for the competitions.
 
@@ -28,7 +28,7 @@ Quarterly Competition 2021 Results
 
 Congratulations to our winners! Due to Covid we are unable to present the cups, or pass them to the winners...
 
-We mmoved onto our Focus Point of the evening, where we discussed 8 Photographt Myths - hopefully these 8 myths are now debunked, and you don't feel you have to live up to some of these rules.
+We mmoved onto our Focus Point of the evening, where we discussed 8 Photography Myths - hopefully these 8 myths are now debunked, and you don't feel you have to live up to some of these rules.
 
 Full details of this will be in the members newsletter.
 *Members receive a copy of the presentation in the club newsletter.*
