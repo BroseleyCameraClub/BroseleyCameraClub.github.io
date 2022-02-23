@@ -30,6 +30,7 @@ Congratulations to our winners! Due to Covid we are unable to present the cups, 
 
 We moved onto our Focus Point of the evening, where we discussed 8 Photography Myths - hopefully these 8 myths are now debunked, and you don't feel you have to live up to some of these rules.
 
+
 Full details of this will be in the members newsletter.
 *Members receive a copy of the presentation in the club newsletter.*
 
