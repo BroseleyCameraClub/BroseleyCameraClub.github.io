@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  january meeting news
-date: 2022-02-31 19:00:00
+date: 2022-01-31 19:00:00
 description: news from our January 2022 Meeting.
 ---
 
