@@ -10,7 +10,6 @@ This is our _'April's Quarterly - Online Competition'_.
 It's pretty simple. Please look through all of the images below please, and then place your vote 
 <!-- - <a target="_blank" href="https://surveyhero.com/c/7j7zka9t">VOTE HERE</a>  -->
 
-1
 <p>Title for the competition is <strong>Transportation</strong>. </p> 
 
 If you want to go straight to the *table view* click <a href="#tableView">HERE</a>
