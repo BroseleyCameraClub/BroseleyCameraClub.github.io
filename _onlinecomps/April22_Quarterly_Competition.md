@@ -26,7 +26,7 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 <div class="Number">{{ image.basename }}</div>
 
 <!-- This runs and checks if there is a matching author in the file -->
-    {% for apr22MonthAuth in site.data.apr22QtrAuth %}
+    {% for apr22QtrAuth in site.data.apr22QtrAuth %}
       {% if image.basename == apr22QtrAuth.Img_Name %}
 <div class="subName">By - {{ apr22QtrAuth.Author }}</div>
       {% endif %} 
