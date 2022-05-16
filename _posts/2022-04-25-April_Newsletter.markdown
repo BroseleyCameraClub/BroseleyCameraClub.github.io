@@ -7,7 +7,7 @@ description: news from our April 2022 Meeting.
 
 A new 'Focus Point' to the clubs programme, with a subject of - Tips for Creating Depth and Dimension in Your Images.
 
-This gave a lot of tips from composition tips, lighting, contrast and much much more. A lot of the tips could easily be a subject on their own. We discussed if we should hold some of these, and the gerneral consensus is that we should. These ideas are going to be put up to the comittee and discussed if we can add them in to this year's programme.
+This gave a lot of tips from composition tips, lighting, contrast and much much more. A lot of the tips could easily be a subject on their own. We discussed if we should hold some of these, and the general consensus is that we should. These ideas are going to be put up to the committee and discussed if we can add them in to this year's programme.
 
 Full details of this will be in the members newsletter.
 *Members receive a copy of the presentation in the club newsletter.*
