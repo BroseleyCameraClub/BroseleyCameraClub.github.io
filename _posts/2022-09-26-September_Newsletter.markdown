@@ -1,17 +1,13 @@
 ---
 layout: post
-title:  june meeting news
-date: 2022-06-25 19:00:00
-description: news from our June 2022 Meeting.
+title:  september meeting news
+date: 2022-09-26 19:00:00
+description: news from our September 2022 Meeting.
 ---
 
-A new 'Focus Point' to the clubs programme, with a subject of - How to Improve Your Composition by Adding a Focal Point.
+An old faithful for us in discussing tips of Black and White.
 
-Composition is a subject we discuss frequently. But it is a subject that a lot of photographers find difficult to master - but when they do, this is one of the most powerful skills in a photographers bag of tricks.
-
-We discussed this in length, narrowing down a few ideas on how to make your subject the focal point of the image. Depth of field, zooming in closer to the subject and isolated subjects were a few ideas amongst many more...
-
-There were many more items discussed to inspire you to photograph.
+We discussed some tips to looking differently at how you think about black and white photography. Different aspects of composition, taking your images in colour and amending to black and white, and most importantly, changing your 'best' images to black and white as just changing a poor image to black and white won't save or make it better.
 
 Full details of this will be in the members newsletter.
 *Members receive a copy of the presentation in the club newsletter.*
@@ -22,31 +18,31 @@ Full details of this will be in the members newsletter.
 
 <br>
 
-The ‘Monthly Competition’ entitled *'Footwear'* was held.
+The ‘Monthly Competition’ entitled *'Wild Life'* was held.
 
 The winners were:-
 
 <ul>
-	<li>1st - &#39;Necessary Equipment&#39; by Ian Reece</li>
-	<li>2nd - &#39;Footwear and Cobbles&#39; - by Mike Purnell</li>
-	<li>3rd - &#39;Job Done&#39; by Joan Banks</li>
+	<li>1st - &#39;Heron In Flight&#39; by Joan Banks</li>
+	<li>2nd - &#39;Green Woodpecker&#39; - by Julie Beddow</li>
+	<li>3rd - &#39;Iguana&#39; by Gary Jones</li>
 </ul>
 
 <br>
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/assets/img/June22_Monthly/09 - Necessary Equipment.jpg">
+	<img class="col three" src="{{ site.baseurl }}/assets/img/Sept22_Monthly/01 - Heron in flight.jpg">
 </div>
 <div class="col three caption">
-	&#39;Necessary Equipment&#39; by Ian Reece
+	&#39;Heron In Flight&#39; by Joan Banks
 </div>
 
 <br>
 <br>
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/assets/img/June22_Monthly/08 - Footware and Cobbles.jpg">
-	<img class="col one" src="{{ site.baseurl }}/assets/img/June22_Monthly/11 - Job Done.jpg">
+	<img class="col two" src="{{ site.baseurl }}/assets/img/Sept22_Monthly/11 - Green Woodpecker.jpg">
+	<img class="col one" src="{{ site.baseurl }}/assets/img/Sept22_Monthly/14 - Iguana.jpg">
 </div>
 
 <div class="col three caption">
@@ -65,11 +61,11 @@ The winners were:-
 ### NEXT MEETING
 <br>
 
-Our next meeting we will be discussing - 'Frame within a Frame'.
-Date - 25th July - 19:30.
+Our next meeting we will be discussing - 'Adding Movement to your Images'.
+Date - 24th October - 19:30.
 
-The Monthly Competition is - 'Historical Sites (e.g. Heritage/Trust)'
-The Quarterly Competition is - 'The Urban Experience (Life and/or Environment)'
+The Monthly Competition is - 'Black and White'
+The Quarterly Competition is - 'Mightier than the Sword (define that as you will)'
 
 
 You can view our current programme here - <a href="{{ site.baseurl }}/programme/2020-12-16-Forward-Programme-2022">PROGRAMME 2022</a>
