@@ -15,7 +15,7 @@ After an enjoyable trip out to Ironbridge for some night photography, this was c
 
 <br>
 
-Our meeting continued with some tips and discussion on how to add movement to your images. On a base level, this can be achieved with implied, backgound movement or subject movement. There was a long dicussion on what members thought were their prefered option, but all agreed that it was in best subject and atmosphere dependant.
+Our meeting continued with some tips and discussion on how to add movement to your images. On a base level, this can be achieved with implied, backgound movement or subject movement. There was a long disussion on what members thought were their prefered option, but all agreed that it was in best subject and atmosphere dependant.
 
 Full details of this will be in the members newsletter.
 <br>
