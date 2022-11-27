@@ -29,7 +29,7 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 <!-- This runs and checks if there is a matching author in the file -->
     {% for nov22LancAuth in site.data.nov22LancAuth %}
       {% if image.basename == nov22LancAuth.Img_Name %}
-<div class="subName">By - {{ AAAnov22LancAuth.Author }}</div>
+<div class="subName">By - {{ nov22LancAuth.Author }}</div>
       {% endif %}
     {% endfor %}
 
@@ -72,7 +72,7 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 
     {% for nov22LancAuth in site.data.nov22LancAuth %}
         {% if image.basename == nov22LancAuth.Img_Name %}
-<div class="description description--grid">{{ image.basename }} - {{ AAAnov22LancAuth.Author }}</div>
+<div class="description description--grid">{{ image.basename }} - {{ nov22LancAuth.Author }}</div>
         {% endif %}
     {% endfor %}
 
