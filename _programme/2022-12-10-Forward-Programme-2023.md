@@ -68,7 +68,7 @@ Following the sucsess of this format in previous years, all the Monthly Competit
 		<div class="prog-SubDate">Apr</div>
 	</div>
 	<div class="div2">
-		<div class="prog-Title">Costal Photography (piers/ Acrcages/ people/ wildlife)</div>
+		<div class="prog-Title">Costal Photography (Piers / Acrcages / People / Wildlife)</div>
 		<div class="prog-Description">we have discussed wildlife and sea scapes before, but there are lots of other things to photography on a day out at the seaside. We will look into, hopefully, some things that you may not of through of photographing.</div>
 	</div>
 </div>
@@ -196,7 +196,7 @@ Following the sucsess of this format in previous years, all the Monthly Competit
 * June - Lake
 * July - Silhouettes
 * September - Festivals
-* October - Fungi, lichen & mosses (must be an autumn event)
+* October - Fungi, Lichen & Mosses (must be an autumn event)
 * November - After Dark
 
 <br>
