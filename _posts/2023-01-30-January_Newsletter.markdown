@@ -49,7 +49,7 @@ __Images of note.__ The committee this year have all picked images of note. Thes
 
 The evenings presentation was on *Exposure Tips* mainly focusing on exposure in poor lighing situations.
 
-Slides were given on the several tips, and encouraged members to move on to their auto settings. Trying this out would be very benefitial to all members to improving their techniques.
+Slides were given on the several tips, and encouraged members to move on to their auto settings. Trying this out would be very beneficial to all members to improving their techniques.
 
 Full details of this will be in the members newsletter.
 <br>
