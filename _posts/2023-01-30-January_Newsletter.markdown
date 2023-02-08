@@ -5,7 +5,7 @@ date: 2023-01-30 19:00:00
 description: news from our January 2023 Meeting.
 ---
 
-First meeting back from teh Christmas holiday, and started things off with the AGM.
+First meeting back from the Christmas holiday, and started things off with the AGM.
 
 __Membership fees.__ Unfortunately due to the rent of the room going up we have had to push the increase onto the membership fees, this means the fee is now £20/year . These should of been paid on the night, however, if you havent' attended, or forgot your cash, an email will be sent out with details on how to pay digitally.
 
