@@ -23,7 +23,7 @@ Want to know what we are doing this years - click below to read through our the 
 <a href="{{ programme.url | prepend: site.baseurl }}">**{{ programme.title}}**</a>
 {% endfor %}
 
-**Membership Fees** are currently only £15 per year. Guests are also welcome to try out prior to becoming a member, these are charged at £2 for the first evening, £13 Membership Fee the following meeting. There is a small 50 pence charge per club evening to cover costs of Coffee/Tea. 
+**Membership Fees** are currently only £20 per year. Guests are also welcome to try out prior to becoming a member, these are charged at £2 for the first evening, £18 Membership Fee the following meeting.
 
 As a member, you receive regular emails including meeting reminders and monthly newsletters with details from the last meeting, these also include links to download the latest presentations.
  
