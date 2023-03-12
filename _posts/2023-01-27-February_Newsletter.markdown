@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  february meeting news
-date: 2023-02-37 19:00:00
+date: 2023-02-27 19:00:00
 description: news from our February 2023 Meeting.
-publish: false
+published: true
 ---
 
 Firstly, we would like to remind you that if you have not paid your membership fee, please bring them to the next meeting.
