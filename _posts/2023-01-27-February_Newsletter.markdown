@@ -38,26 +38,26 @@ The ‘Monthly Competition’ entitled *'Mist and Fog'* was held.
 The winners were:-
 
 <ul>
-	<li>1st - &#39;Cara de Fuego&#39; by Garry Jones</li>
-	<li>2nd - &#39;High Flow&#39; - by Phil Simmons</li>
-	<li>3rd - &#39;A Swirl and a Whirl&#39; by Pete Anslow</li>
+	<li>1st - &#39;Trees in the Mist&#39; by Ian Reece</li>
+	<li>2nd - &#39;Misty Morning From Castle Walk&#39; - by Mike Purnell</li>
+	<li>3rd - &#39;Western Lady VII&#39; by Garry Jones</li>
 </ul>
 
 <br>
 
 <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/assets/img/January23_Monthly/02 - Cara de Fuego.jpg">
+	<img class="col three" src="{{ site.baseurl }}/assets/img/February23_Monthly/01 - Trees in the mist.jpg">
 </div>
 <div class="col three caption">
-	&#39;Cara de Fuego&#39; by Garry Jones
+	&#39;Trees in the Mist&#39; by Ian Reece
 </div>
 
 <br>
 <br>
 
 <div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/assets/img/January23_Monthly/01 - High Flow.jpg">
-	<img class="col one" src="{{ site.baseurl }}/assets/img/January23_Monthly/08 - A Swirl and A Whirl.jpg">
+	<img class="col two" src="{{ site.baseurl }}/assets/img/February23_Monthly/05 - Misty Morning from Castle Walk.jpg">
+	<img class="col one" src="{{ site.baseurl }}/assets/img/February23_Monthly/04 - Western Lady VII.jpg">
 </div>
 
 <div class="col three caption">
