@@ -1,8 +1,8 @@
 ---
 layout: page
-title: February's Monthly Competition
-description: February's Monthly Online Competition.
-date: 2023-02-16 19:00:00
+title: April's Monthly Competition
+description: April's Monthly Online Competition.
+date: 2023-04-16 19:00:00
 ---
 
 

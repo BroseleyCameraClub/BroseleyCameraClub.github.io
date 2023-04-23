@@ -2,7 +2,7 @@
 layout: post
 title:  march meeting news
 date: 2023-03-27 19:00:00
-description: news from our Maarch 2023 Meeting.
+description: news from our March 2023 Meeting.
 published: true
 ---
 
