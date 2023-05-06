@@ -117,6 +117,6 @@ The Monthly Competition is - 'Spring'
 
 You can view our current programme here - <a href="{{ site.baseurl }}/programme/2020-12-16-Forward-Programme-2022">PROGRAMME 2022</a>
 
-<br>
-
 #### Members receive full details via Email and BEFORE they are posted here...
+
+<br>

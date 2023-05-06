@@ -1,7 +1,7 @@
 ---
 layout: page
-title: April's Monthly Competition
-description: April's Monthly Online Competition.
+title: April's Quarterly Competition
+description: April's Quarterly Online Competition.
 date: 2023-04-16 19:00:00
 ---
 

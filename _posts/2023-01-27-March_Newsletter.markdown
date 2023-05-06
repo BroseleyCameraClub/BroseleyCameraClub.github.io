@@ -39,7 +39,7 @@ The winners were:-
 
 <ul>
 	<li>1st - &#39;Straight down the middle&#39; by Joan Banks</li>
-	<li>2nd - &#39;Pulteney Bridge&#39; - by Mike Pete Anslow</li>
+	<li>2nd - &#39;Pulteney Bridge&#39; - by Pete Anslow</li>
 	<li>3rd - &#39;Barmouth Bridge&#39; by Phil Simmons</li>
 </ul>
 
@@ -85,10 +85,8 @@ Date - 24th April 2023 - 19:30.
     <!-- <li>The Lancaster Memorial Competition is - 'Autumn'</li> -->
 </ul>
 
-<br>
-
 For more details you can view our current programme here - {% assign sorted = site.programme | sort: 'date' | reverse  %}{% for programme in sorted limit:1 %} <a class="footlink" href="{{ programme.url | prepend: site.baseurl }}">{{ programme.title }}</a>{% endfor %}
 
-<br>
-
 ##### Members receive full details via Email and BEFORE they are posted here...
+
+<br>

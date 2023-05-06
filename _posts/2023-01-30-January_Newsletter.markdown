@@ -151,10 +151,8 @@ Date - 27th February 2023 - 19:30.
     <!-- <li>The Lancaster Memorial Competition is - 'Autumn'</li> -->
 </ul>
 
-<br>
-
 For more details you can view our current programme here - {% assign sorted = site.programme | sort: 'date' | reverse  %}{% for programme in sorted limit:1 %} <a class="footlink" href="{{ programme.url | prepend: site.baseurl }}">{{ programme.title }}</a>{% endfor %}
 
-<br>
-
 ##### Members receive full details via Email and BEFORE they are posted here...
+
+<br>
