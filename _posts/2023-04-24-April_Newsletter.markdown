@@ -7,7 +7,7 @@ published: true
 ---
 
 Nice fast start to the meeting, great to see everyone. Quick discussion around some of the club visits coming up.
-Details of these visits to follow in a separate news letter.
+Details of these visits to follow in a separate newsletter.
 
 After a chat of other items, we moved onto the focus point of the evening.
 
@@ -18,7 +18,9 @@ After a chat of other items, we moved onto the focus point of the evening.
 <br>
 
 #### Presentation
+
 <br>
+
 The evenings presentation was on *Costal Photography* (Piers / Arcades / People / Wildlife). This was a presentation on other items to look for. Don't just walk around and take the same images as other people, or holiday snappers. Scout out the area, look for different or better angles than the ones that are obvious.
 
 Tips on composition, essential equipment to use, time of day were discussed. All of which as usual you can use, or ignore. But we always advise to at least give these tips a go.
@@ -27,7 +29,9 @@ Two competitions were open this month.
 
 
 Full details of this will be in the members newsletter.
+
 <br>
+
 *Members receive a copy of the presentation in the club newsletter.*
 
 
