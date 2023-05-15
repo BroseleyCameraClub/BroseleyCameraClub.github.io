@@ -27,21 +27,15 @@ Tips on composition, essential equipment to use, time of day were discussed. All
 
 Two competitions were open this month.
 
-
 Full details of this will be in the members newsletter.
 
-<br>
-
-*Members receive a copy of the presentation in the club newsletter.*
-
-
-<br>
+<p class="prog-SubDesc">Members receive a copy of the presentation in the club newsletter.</p>
 
 <hr>
 
 <br>
 
-#### COMPETITIONS
+#### Competitions
 <br>
 The ‘Monthly Competition’ entitled *'Song/Music title'* was held.
 
@@ -120,7 +114,7 @@ The winners were:-
 <br>
 
 
-#### NEXT MEETING
+#### Next Meeting
 <br>
 
 Our next meeting we will be discussing - *'Recreation Around Water'*.
