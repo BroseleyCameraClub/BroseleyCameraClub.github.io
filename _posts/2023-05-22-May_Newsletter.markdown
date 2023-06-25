@@ -19,7 +19,7 @@ After our usual greeting chats, we tried out a slightly different format.
 
 The evenings presentation was on *Recreation Around Water*. Instead of the usual presentation, we ran through quite a few images where, as a group, we decided on possible settings used by the photographer, possible equipment used, and then a critique on the images presented.
 
-This seemed to go well and great to see that everyone had been paying attention to the last several months of presentations and that we felt as a group that we had pretty much got to grips with the techniques, and applied the knowledge that we'd aquired and think that we could of improved quite a few of the imgages.
+This seemed to go well and great to see that everyone had been paying attention to the last several months of presentations and that we felt as a group that we had pretty much got to grips with the techniques, and applied the knowledge that we'd acquired and think that we could of improved quite a few of the images.
 
 <p class="prog-SubDesc">Members receive a copy of the presentation in the club newsletter.</p>
 
