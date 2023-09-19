@@ -3,7 +3,6 @@ layout: page
 title: September's Monthly Competition
 description: September's Monthly Online Competition.
 date: 2023-09-16 19:00:00
-published: false
 ---
 
 This is our _'September's Monthly - Online Competition'_. 
