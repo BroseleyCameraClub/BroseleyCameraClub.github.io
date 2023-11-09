@@ -161,7 +161,7 @@ Following the sucsess of this format in previous years, all the Monthly Competit
 		<div class="prog-SubDate">Nov</div>
 	</div>
 	<div class="div2">
-		<div class="prog-Title">Intresting Projects for the Xmas holiday</div>
+		<div class="prog-Title">Interesting Projects for the Xmas holiday</div>
 		<div class="prog-Description">As much as it's an amazing time for family and friends. It's a time to reflect on the year past, and the year ahead. What have we learned and what can we aim to learn. We will discuss some interesting projects for you to try out during the Xmas break and in the new year to get you on track for achieving your photography goals in 2024.</div>
 	</div>
 </div>
