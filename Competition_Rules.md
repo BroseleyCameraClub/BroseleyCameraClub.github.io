@@ -17,28 +17,26 @@ A floating cup will be awarded annually to the person gaining the most points in
 #### Monthly Competition
 
 <br>
-Monthly Competition entries will be rectangular in shape, and 'up to' but no larger than 7&quot;x5&quot;. If the image is submitted as 7&quot;x5&quot;, it should be mounted in mounts provided by Broseley Camera Club. 
+Monthly Competition entries will be rectangular in shape. When competition is printed entries will be 'up to' but no larger than 7&quot;x5&quot;. If the image is submitted as 7&quot;x5&quot;, it should be mounted in mounts provided by Broseley Camera Club. Where competition is digital, entries can be any size, but rectangular in shape, and emailed before the closing date specified.
 
-Competition Titles can be found in the current programme lists.
+Competition Subjects can be found in the current programme lists.
 
-Two free mounts are provided, any more can be purchased from Broseley Camera Club.
+The image title should be presented clearly at the base of the mount for print, and each emailed entry, file should reflect the image title.
 
-The image title should be presented clearly at the base of the mount.
-
-It is also optional to write the camera settings on the back of the entry to aid with the 'Critique Session' at the end of each meeting.
+It is also optional to write (email) the camera settings on the back of the entry to aid with the 'Critique Session' at the end of each meeting.
 
 <br>
 
 #### Quarterly Competition
 
 <br>
-Quarterly Competition entries will be rectangular in shape, and 'up to' but no larger than A4. These entries do not need to be mounted.
+Quarterly Competition entries will be rectangular in shape, when printed, should be 'up to' but no larger than A4. These entries do not need to be mounted. For digital competitions entries can be any size but rectangular in shape.
 
 Competition Titles can be found in the current programme lists.
 
-The image title should be presented clearly at the base of the mount.
+The image title should be presented clearly at the base of the mount for print, and each emailed entry, file should reflect the image title.
 
-It is also optional to write the camera settings on the back of the entry to aid with the 'Critique Session' at the end of each meeting.
+It is also optional to write (email) the camera settings on the back of the entry to aid with the 'Critique Session' at the end of each meeting.
 
 <br>
 
