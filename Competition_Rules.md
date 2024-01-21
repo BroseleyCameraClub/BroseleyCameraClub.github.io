@@ -52,8 +52,8 @@ These rules apply to both the Monthly and Quarterly Competitions.
 	<li>Members are not permitted to vote for their own images.</li>
 	<li>Entries must be the member's own work.</li>
 	<li>Size restrictions as above.</li>
-	<li>Entries must be titled clearly on the front base of the images, and author's name written on the rear of the image.</li>
-	<li>Entries must be handed to the Club Secretary at the beginning of the meeting</li>
+	<li>Entries must be titled clearly as the file name as well as the entrants name.</li>
+	<li>Entries must be emailed to the Chairman before the closing date specified at the meetings, this is usually 14 days before the meeting date.</li>
 	<li>Judging is done by the attending members of the respective meeting.</li>
 	<li>Members vote for 1st, 2nd and 3rd place, based on the following...</li>
 		<ul>
@@ -73,7 +73,6 @@ These rules apply to both the Monthly and Quarterly Competitions.
 <br>
 
 <ul>
-	<li>Both film and digital images are accepted.</li>
 	<li>Monochrome is permitted, at the discretion of the member, and if it enhances the image.</li>
 	<li>The use of Photoshop or other software is permitted, however minimal editing is preferred. Any editing should be within the realms of reality, and in the correct context of the image.</li>
 	<li>Cloning is permitted, but must remain within the context of the image, and only used to enhance the final image.</li>
@@ -82,7 +81,6 @@ These rules apply to both the Monthly and Quarterly Competitions.
 </ul>
  
 
-  
 If you have any questions on the above, please email <a href="mailto:grahamwelsby@gmail.com">Graham Welsby</a>
 
 
