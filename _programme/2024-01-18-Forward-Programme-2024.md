@@ -1,7 +1,7 @@
 ---
 layout: programme
 title: Programme 2024
-description: Discussions around the genres of photography rather than the technical side. 
+description: There will be more discussions around the genres of photography rather than the technical side. 
 date: 2024-01-18
 author: Graham Welsby
 img: /assets/img/12.jpg

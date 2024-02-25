@@ -14,8 +14,9 @@ permalink: /programme/
           <br/>
 </div>
 
+{% assign sorted = site.programme | sort: 'date' | reverse  %} 
 <ul class="post-list">
-    {% for programme in site.programme reversed limit:8 %}
+    {% for programme in sorted limit:6 %}
       <li>
         <h2><a class="programme-title" href="{{ programme.url | prepend: site.baseurl }}">{{ programme.title }}</a></h2>
         <p class="programme-meta">{{ programme.date | date: "%-d %B, %Y" }}</p>
