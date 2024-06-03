@@ -82,7 +82,7 @@ As a club we are always looking to change things up and keep it interesting. So 
 		<div class="prog-SubDate">May</div>
 	</div>
 	<div class="div2">
-		<div class="prog-Title">Documantary</div>
+		<div class="prog-Title">Documentary</div>
 		<div class="prog-Description">This is a very big genre of photography, there are many areas this can break into and how to look at it with the excitment to have a go.</div>
 	</div>
 </div>
