@@ -6,7 +6,7 @@ description: news from our June 2024 Meeting.
 published: true
 ---
 
-Quick discussion on the months events, and other such items, 
+Quick discussion on the months events, and other such items, some of the potential club outings and when and where. Please look out for the newsletter to see the details. Or chekc the WhatsApp group.
  
 <br>
 
