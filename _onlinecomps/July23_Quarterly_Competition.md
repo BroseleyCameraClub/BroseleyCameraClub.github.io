@@ -16,9 +16,9 @@ Please review the images and bring your votes with you to the next meeting where
 
 If you want to go straight to the *table view* click <a href="#tableView">HERE</a>
 
-<br>
-### !! VOTING IS NOW CLOSED !!
-<br>
+<!-- <br>
+### !!! VOTING IS NOW CLOSED !!!
+<br> -->
 
 <br>
 
