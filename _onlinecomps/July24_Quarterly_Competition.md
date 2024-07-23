@@ -10,7 +10,7 @@ This is our _'July's Quarterly - Online Competition'_.
 Please review the images and bring your votes with you to the next meeting where we will compile the votes and count them all up.
 <!-- <a target="_blank" href="https://surveyhero.com/c/k3qpnzzw">VOTE HERE</a>  -->
 
-<p>Title for the competition is <strong>3 Miles from Broseley</strong></p> 
+<p>Title for the competition is <strong>Yellow</strong></p> 
 
 If you want to go straight to the *table view* click <a href="#tableView">HERE</a>
 
