@@ -12,7 +12,7 @@ Please review the images and bring your votes with you to the next meeting where
 <!-- <a target="_blank" href="https://surveyhero.com/c/k3qpnzzw">VOTE HERE</a>  -->
 
 
-<p>Title for the competition is <strong>Spring</strong></p> 
+<p>Title for the competition is <strong>Yellow</strong></p> 
 
 If you want to go straight to the *table view* click <a href="#tableView">HERE</a>
 
