@@ -28,7 +28,7 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 <!-- This runs and checks if there is a matching author in the file -->
     {% for oct24QuaAuth in site.data.oct24QuaAuth   %}
       {% if image.basename == oct24QuaAuth.Img_Name %}
-<div class="subName">By - {{ AAAoct24QuaAuth.Author }}</div>
+<div class="subName">By - {{ oct24QuaAuth.Author }}</div>
       {% endif %}
     {% endfor %}
 
@@ -71,7 +71,7 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 
     {% for oct24QuaAuth in site.data.oct24QuaAuth %}
         {% if image.basename == oct24QuaAuth.Img_Name %}
-<div class="description description--grid">{{ image.basename }} - {{ AAAoct24QuaAuth.Author }}</div>
+<div class="description description--grid">{{ image.basename }} - {{ oct24QuaAuth.Author }}</div>
         {% endif %}
     {% endfor %}
 
