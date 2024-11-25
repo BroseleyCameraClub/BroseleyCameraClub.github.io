@@ -20,7 +20,7 @@ We also discussed the competition rules, the committee is reviewing the current 
 
 <br>
 
-The presentation about *'Fashion, Portraits & Closeups'* was held. We discussed a few tips around this genre, and how you can look into lots of ways to impliment this yourself with your own images.
+The presentation about *'Fashion, Portraits & Closeups'* was held. We discussed a few tips around this genre, and how you can look into lots of ways to use this yourself with your own images.
 
 Some amazing images were critiqued and reviewed, and discussions around a few videos that you could review.
 
@@ -32,7 +32,7 @@ Some amazing images were critiqued and reviewed, and discussions around a few vi
 
 #### Competitions
 <br>
-The ‘Monthly Competition’ entitled *'3 Miles from Broseley'* was held.
+The ‘Monthly Competition’ entitled *'Woodland Walks'* was held.
 
 The winners were:-
 
