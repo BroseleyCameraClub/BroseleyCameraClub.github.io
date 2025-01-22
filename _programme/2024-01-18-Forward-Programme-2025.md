@@ -56,8 +56,8 @@ A filled programme for this season. There are plenty of chances to dust off the 
 		<div class="prog-SubDate">Mar</div>
 	</div>
 	<div class="div2">
-		<div class="prog-Title">Guest Speaker</div>
-		<div class="prog-Description">A guest speaker will be taking over the club meeting this evening.</div>
+		<div class="prog-Title">Negative Space</div>
+		<div class="prog-Description">This technique is sometimes overlooked by us as amateurs and we believe that this is worth the focus point to discuss how to use this to your advantage.</div>
 	</div>
 </div>
 
@@ -69,8 +69,8 @@ A filled programme for this season. There are plenty of chances to dust off the 
 		<div class="prog-SubDate">Apr</div>
 	</div>
 	<div class="div2">
-		<div class="prog-Title">Negative Space</div>
-		<div class="prog-Description">This technique is sometimes overlooked by us as amateurs and we believe that this is worth the focus point to discuss how to use this to your advantage.</div>
+		<div class="prog-Title">Guest Speaker</div>
+		<div class="prog-Description">A guest speaker will be taking over the club meeting this evening.</div>
 	</div>
 </div>
 
