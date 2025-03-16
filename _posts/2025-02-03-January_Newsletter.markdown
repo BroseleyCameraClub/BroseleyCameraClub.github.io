@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  november meeting news
-date: 2024-11-25 19:00:00
-description: news from our November 2024 Meeting.
+title:  january meeting news
+date: 2025-02-03 19:00:00
+description: news from our January 2025 Meeting.
 published: true
 ---
 
@@ -116,45 +116,17 @@ The winners were:-
 
 <br> -->
 
-#### Annual Competition Winners
-<br>
-As ever, we have come to the end of the season, and we can announce the 2024 season competition winners.
 
-I think it's very sensible to note that a lot of the competitions this year have been hard to judge, and the quality has increased once again - everyone is having to up their game to keep up!!
-
-Well done to the winners, but very well done to all who entered - please keep up the amazing work and keep taking and entering your amazing images!
-
-The ‘Monthly Competition’ winners are as follows.
-
-<ul>
-	<li>1st - &#39;Val Sturnam&#39; - 15 points</li>
-	<li>2nd - &#39;Joan Banks&#39; - 12 points</li>
-	<li>3rd - &#39;Julie Beddow&#39; - 10 points</li>
-</ul>
-
-The Quarterly Competition’ winners are as follows.
-
-<ul>
-	<li>1st - &#39;Natalie Kinner&#39; - 8 points</li>
-	<li>2nd - &#39;John Horton&#39; - 5 points</li>
-	<li>3rd - &#39;Garry Jones&#39; - 4 points</li>
-</ul>
-
-<br>
-
-<hr>
-
-<br>
 
 
 #### Next Meeting
 <br>
 
-Our next meeting we will be - 27th January 2025  - 19:30.
+Our next meeting we will be - 25th November - 19:30.
 <ul>
-    <li>The Monthly Competition is - 'Rough' </li>
-	<li>The Quarterly Competition is - 'Blue' </li>
-	<!-- <li>The Lancaster Memorial Competition is - 'Black and White'</li> -->
+    <li>The Monthly Competition is - 'Religious Environments' </li>
+	<!-- <li>The Quarterly Competition is - 'Red' </li> -->
+	<li>The Lancaster Memorial Competition is - 'Black and White'</li>
 </ul>
 
 <!-- Please note the closing dates for Competition Entry is - **19th June 2024** -->

@@ -144,7 +144,7 @@ The winners were:-
 <br>
 
 Our next meeting we will be discussing - *'Shapes & Architecture'*.
-Date - 27th February 2023 - 19:30.
+Date - 27th February 2023 - 19:30
 
 <ul>
     <li>The Monthly Competition is - 'Mist and Fog'</li>
