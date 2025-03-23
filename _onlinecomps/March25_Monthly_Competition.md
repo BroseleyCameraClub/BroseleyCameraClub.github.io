@@ -99,7 +99,3 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 
 <hr>
 
-
-
-
-
