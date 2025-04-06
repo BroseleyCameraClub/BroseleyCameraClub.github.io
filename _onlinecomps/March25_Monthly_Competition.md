@@ -71,7 +71,7 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 
     {% for mar25MonAuth in site.data.mar25MonAuth %}
         {% if image.basename == mar25MonAuth.Img_Name %}
-<div class="description description--grid">{{ image.basename }} - {{ AAAmar25MonAuth.Author }}</div>
+<div class="description description--grid">{{ image.basename }} - {{ mar25MonAuth.Author }}</div>
         {% endif %}
     {% endfor %}
 
