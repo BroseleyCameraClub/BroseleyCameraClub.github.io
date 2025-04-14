@@ -3,7 +3,7 @@ layout: page
 title: April's Quarterly Competition
 description: april's Quarterly Online Competition.
 date: 2025-04-15 19:00:00
-publish: false
+published: false
 ---
 
 This is our _'Aprils's Quarterly - Online Competition'_. 
@@ -11,7 +11,7 @@ This is our _'Aprils's Quarterly - Online Competition'_.
 Please review the images and bring your votes with you to the next meeting where we will compile the votes and count them all up.
 <!-- <a target="_blank" href="https://surveyhero.com/c/k3qpnzzw">VOTE HERE</a>  -->
 
-<p>Title for the competition is <strong>Smooth</strong></p> 
+<p>Title for the competition is <strong>Lines</strong></p> 
 
 If you want to go straight to the *table view* click <a href="#tableView">HERE</a>
 
@@ -23,13 +23,13 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 
 <!-- This loops through all the images in specified folder -->
 {% for image in site.static_files %}
-    {% if image.path contains 'assets/img/April25_Monthly/' %}
+    {% if image.path contains 'assets/img/April25_Quarterly/' %}
 <div class="Number">{{ image.basename }}</div>
 
 <!-- This runs and checks if there is a matching author in the file -->
-    {% for apr25MonAuth in site.data.apr25MonAuth   %}
-      {% if image.basename == apr25MonAuth.Img_Name %}
-<div class="subName">By - {{ AAAapr25MonAuth.Author }}</div>
+    {% for apr25QtrAuth in site.data.apr25QtrAuth   %}
+      {% if image.basename == apr25QtrAuth.Img_Name %}
+<div class="subName">By - {{ AAAapr25QtrAuth.Author }}</div>
       {% endif %}
     {% endfor %}
 
@@ -64,15 +64,15 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 	<div class="grid">
 
 {% for image in site.static_files %}
-    {% if image.path contains 'assets/img/April25_Monthly' %}
+    {% if image.path contains 'assets/img/April25_Quarterly' %}
         {% assign imp_pat = image.path | remove_first: "/" %}
 <div class="grid__item" data-size="1280x1280">  
     <a href="{{ site.baseurl }}{{ image.path }}" class="img-wrap" alt="{{ image.basename }}">
         <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.basename }}" />
 
-    {% for apr25MonAuth in site.data.apr25MonAuth %}
-        {% if image.basename == apr25MonAuth.Img_Name %}
-<div class="description description--grid">{{ image.basename }} - {{ AAAapr25MonAuth.Author }}</div>
+    {% for apr25QtrAuth in site.data.apr25QtrAuth %}
+        {% if image.basename == apr25QtrAuth.Img_Name %}
+<div class="description description--grid">{{ image.basename }} - {{ AAAapr25QtrAuth.Author }}</div>
         {% endif %}
     {% endfor %}
 
