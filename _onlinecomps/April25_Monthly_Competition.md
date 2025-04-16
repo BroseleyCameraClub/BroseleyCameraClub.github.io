@@ -3,7 +3,6 @@ layout: page
 title: April's Monthly Competition
 description: april's Monthly Online Competition.
 date: 2025-04-15 19:00:00
-publish: false
 ---
 
 This is our _'Aprils's Monthly - Online Competition'_. 

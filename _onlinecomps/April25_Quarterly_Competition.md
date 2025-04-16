@@ -3,7 +3,6 @@ layout: page
 title: April's Quarterly Competition
 description: april's Quarterly Online Competition.
 date: 2025-04-15 19:00:00
-published: false
 ---
 
 This is our _'Aprils's Quarterly - Online Competition'_. 
