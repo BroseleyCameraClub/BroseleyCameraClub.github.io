@@ -14,9 +14,9 @@ Please review the images and bring your votes with you to the next meeting where
 
 If you want to go straight to the *table view* click <a href="#tableView">HERE</a>
 
-<!-- <br>
+<br>
 ### !! VOTING IS NOW CLOSED !!
-<br> -->
+<br>
 
 <br>
 
@@ -28,7 +28,7 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 <!-- This runs and checks if there is a matching author in the file -->
     {% for may25MonAuth in site.data.may25MonAuth   %}
       {% if image.basename == may25MonAuth.Img_Name %}
-<div class="subName">By - {{ AAAmay25MonAuth.Author }}</div>
+<div class="subName">By - {{ may25MonAuth.Author }}</div>
       {% endif %}
     {% endfor %}
 
@@ -71,7 +71,7 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 
     {% for may25MonAuth in site.data.may25MonAuth %}
         {% if image.basename == may25MonAuth.Img_Name %}
-<div class="description description--grid">{{ image.basename }} - {{ AAAmay25MonAuth.Author }}</div>
+<div class="description description--grid">{{ image.basename }} - {{ may25MonAuth.Author }}</div>
         {% endif %}
     {% endfor %}
 
