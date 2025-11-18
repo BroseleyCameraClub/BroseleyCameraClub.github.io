@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  june meeting news
-date: 2025-06-30 19:00:00
-description: news from our June 2025 Meeting.
+title:  july meeting news
+date: 2025-07-30 19:00:00
+description: news from our July 2025 Meeting.
 published: false
 ---
 
@@ -37,7 +37,7 @@ The ‘Monthly Competition’ entitled *'Unusual Angles'* was held.
 The winners were:-
 
 <ul>
-	<li>1st - &#39;City Vertical&#39; by Russ Powney</li>
+	<li>1st - &#39;City Vertical&#39; by </li>
 	<li>2nd - &#39;After the Storm&#39; - by Ian Reece</li>
 	<li>3rd - &#39;Busy Shopping&#39; by Natalie Kinnear</li>
 </ul>
