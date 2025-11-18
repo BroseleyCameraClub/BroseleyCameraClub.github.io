@@ -37,7 +37,7 @@ The ‘Monthly Competition’ entitled *'Unusual Angles'* was held.
 The winners were:-
 
 <ul>
-	<li>1st - &#39;City Vertical&#39; by </li>
+	<li>1st - &#39;City Vertical&#39; by Russ</li>
 	<li>2nd - &#39;After the Storm&#39; - by Ian Reece</li>
 	<li>3rd - &#39;Busy Shopping&#39; by Natalie Kinnear</li>
 </ul>
