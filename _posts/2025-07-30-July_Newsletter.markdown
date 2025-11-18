@@ -3,7 +3,7 @@ layout: post
 title:  june meeting news
 date: 2025-06-30 19:00:00
 description: news from our June 2025 Meeting.
-published: true
+published: false
 ---
 
 Quick discussion around a few house keeping issues. Then straight into the meeting presentation.
@@ -32,7 +32,7 @@ He delivered tips on how to take the images, angles to look for, how to hold you
 
 #### Competition
 <br>
-The ‘Monthly Competition’ entitled *'Townscapes'* was held.
+The ‘Monthly Competition’ entitled *'Unusual Angles'* was held.
 
 The winners were:-
 
