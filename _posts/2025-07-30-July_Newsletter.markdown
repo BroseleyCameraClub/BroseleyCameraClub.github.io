@@ -17,7 +17,7 @@ Quick discussion around a few house keeping issues. Then straight into the meeti
 
 <br>
 
-The presentation on *'Panning'* was held.
+The presentation on *'TBC'* was held.
 
 Again this month we had another member give our presentation. Russ delivered a few images he had taken personally and discussed various shutter speeds showing the effects this had on various situations.
 
