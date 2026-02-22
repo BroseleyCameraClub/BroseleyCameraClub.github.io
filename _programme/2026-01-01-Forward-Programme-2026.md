@@ -96,7 +96,7 @@ This year programme consists from requests of members that we are to review and 
 	</div>
 	<div class="div2">
 		<div class="prog-Title">Other Club Images</div>
-		<div class="prog-Description">This evening we are going to look at some images from other photography clubs for review and inspiration.</div>
+		<div class="prog-Description">This evening we are going to look at some images from other photography for review and inspiration.</div>
 	</div>
 </div>
 
