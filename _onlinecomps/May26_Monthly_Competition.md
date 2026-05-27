@@ -1,34 +1,34 @@
 ---
 layout: page
-title: April's Monthly Competition
-description: April's Monthly Online Competition.
+title: May's Monthly Competition
+description: may's Monthly Online Competition.
 date: 2026-01-20 19:00:00
 ---
 
-This is our _'Aprils's Monthly - Online Competition'_. 
+This is our _'May's Monthly - Online Competition'_. 
 
 Please review the images and bring your votes with you to the next meeting where we will compile the votes and count them all up.
 <!-- <a target="_blank" href="https://surveyhero.com/c/k3qpnzzw">VOTE HERE</a>  -->
 
-<p>Title for the competition is <strong>Telford: Between the river and M54</strong></p> 
+<p>Title for the competition is <strong>Touch of Glass</strong></p> 
 
 If you want to go straight to the *table view* click <a href="#tableView">HERE</a>
 
-<br>
+<!-- <br>
 ### !! VOTING IS NOW CLOSED !!
-<br>
+<br> -->
 
 <br>
 
 <!-- This loops through all the images in specified folder -->
 {% for image in site.static_files %}
-    {% if image.path contains 'assets/img/April26_Monthly/' %}
+    {% if image.path contains 'assets/img/May26_Monthly/' %}
 <div class="Number">{{ image.basename }}</div>
 
 <!-- This runs and checks if there is a matching author in the file -->
-    {% for apr26MonAuth in site.data.apr26MonAuth   %}
-      {% if image.basename == apr26MonAuth.Img_Name %}
-<div class="subName">By - {{ AAAapr26MonAuth.Author }}</div>
+    {% for may26MonAuth in site.data.may26MonAuth   %}
+      {% if image.basename == may26MonAuth.Img_Name %}
+<div class="subName">By - {{ AAAmay26MonAuth.Author }}</div>
       {% endif %}
     {% endfor %}
 
@@ -63,15 +63,15 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 	<div class="grid">
 
 {% for image in site.static_files %}
-    {% if image.path contains 'assets/img/April26_Monthly' %}
+    {% if image.path contains 'assets/img/May26_Monthly' %}
         {% assign imp_pat = image.path | remove_first: "/" %}
 <div class="grid__item" data-size="1280x1280">  
     <a href="{{ site.baseurl }}{{ image.path }}" class="img-wrap" alt="{{ image.basename }}">
         <img src="{{ site.baseurl }}{{ image.path }}" alt="{{ image.basename }}" />
 
-    {% for apr26MonAuth in site.data.apr26MonAuth   %}
-        {% if image.basename == apr26MonAuth.Img_Name %}
-<div class="description description--grid">{{ image.basename }} - {{ AAAapr26MonAuth.Author }}</div>
+    {% for may26MonAuth in site.data.may26MonAuth   %}
+        {% if image.basename == may26MonAuth.Img_Name %}
+<div class="description description--grid">{{ image.basename }} - {{ AAAmay26MonAuth.Author }}</div>
         {% endif %}
     {% endfor %}
 
