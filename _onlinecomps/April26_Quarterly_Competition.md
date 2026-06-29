@@ -5,7 +5,7 @@ description: April's Quarterly Online Competition.
 date: 2026-01-20 19:00:00
 ---
 
-This is our _'April's Quarterly - Online Competition'_. 
+This is our _'Aprils's Quarterly - Online Competition'_. 
 
 Please review the images and bring your votes with you to the next meeting where we will compile the votes and count them all up.
 <!-- <a target="_blank" href="https://surveyhero.com/c/k3qpnzzw">VOTE HERE</a>  -->
@@ -28,7 +28,7 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 <!-- This runs and checks if there is a matching author in the file -->
     {% for apr26QtrAuth in site.data.apr26QtrAuth   %}
       {% if image.basename == apr26QtrAuth.Img_Name %}
-<div class="subName">By - {{ apr26QtrAuth.Author }}</div>
+<div class="subName">By - {{ AAAapr26QtrAuth.Author }}</div>
       {% endif %}
     {% endfor %}
 

@@ -5,7 +5,7 @@ description: April's Monthly Online Competition.
 date: 2026-01-20 19:00:00
 ---
 
-This is our _'April's Monthly - Online Competition'_. 
+This is our _'Aprils's Monthly - Online Competition'_. 
 
 Please review the images and bring your votes with you to the next meeting where we will compile the votes and count them all up.
 <!-- <a target="_blank" href="https://surveyhero.com/c/k3qpnzzw">VOTE HERE</a>  -->
@@ -28,7 +28,7 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 <!-- This runs and checks if there is a matching author in the file -->
     {% for apr26MonAuth in site.data.apr26MonAuth   %}
       {% if image.basename == apr26MonAuth.Img_Name %}
-<div class="subName">By - {{ apr26MonAuth.Author }}</div>
+<div class="subName">By - {{ AAAapr26MonAuth.Author }}</div>
       {% endif %}
     {% endfor %}
 
@@ -71,7 +71,7 @@ If you want to go straight to the *table view* click <a href="#tableView">HERE</
 
     {% for apr26MonAuth in site.data.apr26MonAuth   %}
         {% if image.basename == apr26MonAuth.Img_Name %}
-<div class="description description--grid">{{ image.basename }} - {{ apr26MonAuth.Author }}</div>
+<div class="description description--grid">{{ image.basename }} - {{ AAAapr26MonAuth.Author }}</div>
         {% endif %}
     {% endfor %}
 
