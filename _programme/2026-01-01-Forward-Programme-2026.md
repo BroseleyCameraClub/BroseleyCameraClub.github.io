@@ -136,8 +136,8 @@ This year programme consists from requests of members that we are to review and 
 		<div class="prog-SubDate">Sep</div>
 	</div>
 	<div class="div2">
-		<div class="prog-Title">Andre Hundley</div>
-		<div class="prog-Description">Andre has kindly offered to display some of his images.</div>
+		<div class="prog-Title">John Horton</div>
+		<div class="prog-Description">John has kindly offered to display some of his images.</div>
 	</div>
 </div>
 
@@ -149,8 +149,8 @@ This year programme consists from requests of members that we are to review and 
 		<div class="prog-SubDate">Oct</div>
 	</div>
 	<div class="div2">
-		<div class="prog-Title">John Horton</div>
-		<div class="prog-Description">John has kindly offered to display some of his images.</div>
+		<div class="prog-Title">Andre Hundley</div>
+		<div class="prog-Description">Andre has kindly offered to display some of his images.</div>
 	</div>
 </div>
 
