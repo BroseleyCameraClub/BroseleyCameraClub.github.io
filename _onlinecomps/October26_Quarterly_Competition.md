@@ -1,11 +1,11 @@
 ---
 layout: page
-title: October's Monthly Competition
-description: october's Monthly Online Competition.
+title: October's Quarterly Competition
+description: october's Quarterly Online Competition.
 date: 2026-10-18 19:00:00
 ---
 
-This is our _'October's Monthly - Online Competition'_. 
+This is our _'October's Quarterly - Online Competition'_. 
 
 Please review the images and bring your votes with you to the next meeting where we will compile the votes and count them all up.
 <!-- <a target="_blank" href="https://surveyhero.com/c/k3qpnzzw">VOTE HERE</a>  -->
